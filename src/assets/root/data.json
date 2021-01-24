@@ -1,0 +1,21 @@
+{
+  "parties": {
+    "CDU": {},
+    "Grüne": {}
+  },
+  "theses": [{
+    "short": "Bundeswehr im Inneren",
+    "long": "Bei der Terrorismusbekämpfung soll die Bundeswehr im Inland eingesetzt werden dürfen.",
+    "evaluation": {
+        "CDU": true,
+        "Grüne": null
+    }
+  }, {
+    "short": "Besteuerung von Pkw-Diesel",
+    "long": "Dieselkraftstoff für Pkw soll höher besteuert werden.",
+    "evaluation": {
+        "CDU": false,
+        "Grüne": true
+    }
+  }]
+}
