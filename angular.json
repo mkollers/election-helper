@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "election-helper"
+  "defaultProject": "election-helper",
+  "cli": {
+    "analytics": false
+  }
 }
