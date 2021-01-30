@@ -6,14 +6,13 @@
 @include mat-core();
 
 /* All custom styles, which probably override material styles */
+@import './styles/global';
+
+/* All custom styles, which probably override material styles */
 // @import './styles/global';
 
 :root {
   --content-padding: 48px;
-
-  // Header
-  --header-height-small: 40px;
-  --header-height-large: 64px;
 
   @media #{$mat-lt-md} {
     --content-padding: 16px;

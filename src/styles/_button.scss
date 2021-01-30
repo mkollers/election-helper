@@ -1,0 +1,32 @@
+button {
+  &.primary {
+    background: var(--clr-primary);
+    color: var(--clr-primary-contrast);
+  }
+
+  &.secondary {
+    background: var(--clr-secondary);
+    color: var(--clr-secondary-contrast);
+  }
+
+  -webkit-tap-highlight-color: transparent;
+  border-radius: 1000px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: .3px;
+  line-height: 1.5rem;
+  min-width: 4.6875rem;
+  outline: none;
+  padding: .5rem 1.5rem;
+  position: relative;
+  transition: all .2s cubic-bezier(.35, 0, .25, 1);
+  user-select: none;
+
+  &:hover {
+    box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
+    transform: translateY(-2px);
+    transition: all .2s cubic-bezier(.35, 0, .25, 1);
+  }
+}
