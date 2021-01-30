@@ -13,6 +13,8 @@ export interface Thesis {
 };
 
 export interface Config {
+    headline: string,
+    welcome_text: string,
     parties: { [key: string]: Party };
     theses: Thesis[];
 };

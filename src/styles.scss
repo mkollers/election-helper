@@ -22,17 +22,11 @@
 
 html,
 body {
-  font-family: 'Roboto', Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
   height: 100%;
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
 
-html {
-  background: linear-gradient(0deg, var(--clr-primary-m1) 0%, var(--clr-primary-p1) 100%);
-}
-
-// Transition between themes
 * {
-  transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s !important;
+  font-family: 'Roboto', Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;
 }

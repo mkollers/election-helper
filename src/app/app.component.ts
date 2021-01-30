@@ -8,7 +8,6 @@ import { Config, CONFIG } from 'src/config';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class AppComponent {
-  constructor(@Inject(CONFIG) config: Config) {
-    console.log(config);
+  constructor(@Inject(CONFIG) public config: Config) {
   }
 }
