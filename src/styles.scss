@@ -28,6 +28,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+html {
+  background: linear-gradient(0deg, var(--clr-secondary-m1) 0%, var(--clr-secondary-p1) 100%);
+}
+
 // Transition between themes
 * {
   transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s !important;

@@ -1,33 +1,38 @@
-$eschborn-blue: (50 : #e3eff0,
-  100 : #bad8da,
-  200 : #8cbec1,
-  300 : #5ea3a8,
-  400 : #3c9096,
-  500 : #197c83,
-  600 : #16747b,
-  700 : #126970,
-  800 : #0e5f66,
-  900 : #084c53,
-  A100 : #87f2ff,
-  A200 : #54edff,
-  A400 : #21e7ff,
-  A700 : #08e4ff,
-  contrast: (50 : #000000,
-    100 : #000000,
-    200 : #000000,
-    300 : #000000,
-    400 : #ffffff,
-    500 : #ffffff,
-    600 : #ffffff,
-    700 : #ffffff,
-    800 : #ffffff,
-    900 : #ffffff,
-    A100 : #000000,
-    A200 : #000000,
-    A400 : #000000,
-    A700 : #000000));
+$eschborn-blue: (
+    50 : #e7f3fb,
+    100 : #c2e0f4,
+    200 : #9acced,
+    300 : #71b7e6,
+    400 : #52a7e0,
+    500 : #3498db,
+    600 : #2f90d7,
+    700 : #2785d2,
+    800 : #217bcd,
+    900 : #156ac4,
+    A100 : #f5f9ff,
+    A200 : #c2ddff,
+    A400 : #8fc1ff,
+    A700 : #75b3ff,
+    contrast: (
+        50 : #000000,
+        100 : #000000,
+        200 : #000000,
+        300 : #000000,
+        400 : #000000,
+        500 : #000000,
+        600 : #ffffff,
+        700 : #ffffff,
+        800 : #ffffff,
+        900 : #ffffff,
+        A100 : #000000,
+        A200 : #000000,
+        A400 : #000000,
+        A700 : #000000,
+    )
+);
 
-$eschborn-orange: (50 : #fbf2e5,
+$eschborn-orange: (
+  50 : #fbf2e5,
   100 : #f4debf,
   200 : #edc894,
   300 : #e6b169,
@@ -41,7 +46,8 @@ $eschborn-orange: (50 : #fbf2e5,
   A200 : #ffd9be,
   A400 : #ffbb8b,
   A700 : #ffac72,
-  contrast: (50 : #000000,
+  contrast: (
+    50 : #000000,
     100 : #000000,
     200 : #000000,
     300 : #000000,
@@ -55,7 +61,8 @@ $eschborn-orange: (50 : #fbf2e5,
     A200 : #000000,
     A400 : #000000,
     A700 : #000000,
-  ));
+  )
+);
 
 @mixin set-vars($theme) {
   $primary: map-get($theme, primary);
@@ -114,13 +121,13 @@ $eschborn-light-background: map_merge($eschborn-light-background, (background: v
 
 $eschborn-light-theme: map_merge($eschborn-light-theme, (background: $eschborn-light-background));
 
-.eschborn-light-theme {
-  @include set-vars($eschborn-light-theme);
-  @include angular-material-theme($eschborn-light-theme);
-}
-
 // Makes the splash screen work at a root level
 :root {
   --clr-neutral-m4: #F4F5F7;
   --clr-secondary: #465871;
+}
+
+.eschborn-light-theme {
+  @include set-vars($eschborn-light-theme);
+  @include angular-material-theme($eschborn-light-theme);
 }
