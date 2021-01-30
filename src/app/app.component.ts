@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Inject } from '@angular/core';
+import { Config, CONFIG } from 'src/config';
 
 @Component({
   selector: 'app-root, [app-root]',
@@ -7,4 +8,7 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class AppComponent {
+  constructor(@Inject(CONFIG) config: Config) {
+    console.log(config);
+  }
 }

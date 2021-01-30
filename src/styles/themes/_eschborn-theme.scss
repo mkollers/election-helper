@@ -1,0 +1,126 @@
+$eschborn-blue: (50 : #e3eff0,
+  100 : #bad8da,
+  200 : #8cbec1,
+  300 : #5ea3a8,
+  400 : #3c9096,
+  500 : #197c83,
+  600 : #16747b,
+  700 : #126970,
+  800 : #0e5f66,
+  900 : #084c53,
+  A100 : #87f2ff,
+  A200 : #54edff,
+  A400 : #21e7ff,
+  A700 : #08e4ff,
+  contrast: (50 : #000000,
+    100 : #000000,
+    200 : #000000,
+    300 : #000000,
+    400 : #ffffff,
+    500 : #ffffff,
+    600 : #ffffff,
+    700 : #ffffff,
+    800 : #ffffff,
+    900 : #ffffff,
+    A100 : #000000,
+    A200 : #000000,
+    A400 : #000000,
+    A700 : #000000));
+
+$eschborn-orange: (50 : #fbf2e5,
+  100 : #f4debf,
+  200 : #edc894,
+  300 : #e6b169,
+  400 : #e0a148,
+  500 : #db9028,
+  600 : #d78824,
+  700 : #d27d1e,
+  800 : #cd7318,
+  900 : #c4610f,
+  A100 : #fff7f1,
+  A200 : #ffd9be,
+  A400 : #ffbb8b,
+  A700 : #ffac72,
+  contrast: (50 : #000000,
+    100 : #000000,
+    200 : #000000,
+    300 : #000000,
+    400 : #000000,
+    500 : #000000,
+    600 : #000000,
+    700 : #000000,
+    800 : #000000,
+    900 : #ffffff,
+    A100 : #000000,
+    A200 : #000000,
+    A400 : #000000,
+    A700 : #000000,
+  ));
+
+@mixin set-vars($theme) {
+  $primary: map-get($theme, primary);
+  $secondary: map-get($theme, accent);
+
+  // Primary
+  --clr-primary-m1: #{mat-color($primary, 50)};
+  --clr-primary-m1-contrast: #{mat-contrast($primary, 50)};
+  --clr-primary: #{mat-color($primary, 500)};
+  --clr-primary-contrast: #{mat-contrast($primary, 500)};
+  --clr-primary-p1: #{mat-color($primary, 900)};
+  --clr-primary-p1-contrast: #{mat-contrast($primary, 900)};
+
+  // Secondary
+  --clr-secondary-m1: #{mat-color($secondary, 50)};
+  --clr-secondary-m1-contrast: #{mat-contrast($secondary, 50)};
+  --clr-secondary: #{mat-color($secondary, 500)};
+  --clr-secondary-contrast: #{mat-contrast($secondary, 500)};
+  --clr-secondary-p1: #{mat-color($secondary, 900)};
+  --clr-secondary-p1-contrast: #{mat-contrast($secondary, 900)};
+
+  // Neutral
+  --clr-neutral-0dp: #FAFAFA;
+  --clr-neutral-1dp: #EDEDED;
+  --clr-neutral-2dp: #E9E9E9;
+  --clr-neutral-3dp: #E6E6E6;
+  --clr-neutral-4dp: #E4E4E4;
+  --clr-neutral-6dp: #DFDFDF;
+  --clr-neutral-8dp: #DCDCDC;
+  --clr-neutral-12dp: #D7D7D7;
+  --clr-neutral-16dp: #D5D5D5;
+  --clr-neutral-24dp: #D2D2D2;
+  --clr-neutral-white: #FAFAFA;
+
+  // Denotive
+  --clr-error: #B00020;
+  --clr-error-contrast: #FFFFFF;
+
+  --clr-warn: #EE7200;
+  --clr-warn-contrast: #FFFFFF;
+
+  --clr-success: #12B958;
+  --clr-success-contrast: #FFFFFF;
+
+  --clr-info: #0DBCE7;
+  --clr-info-contrast: #FFFFFF;
+}
+
+$primary: mat-palette($eschborn-blue);
+$secondary: mat-palette($eschborn-orange);
+
+$eschborn-light-theme: mat-light-theme($primary, $secondary);
+
+$eschborn-light-background: map-get($eschborn-light-theme, background);
+$eschborn-light-background: map_merge($eschborn-light-background, (background: var(--clr-neutral-0dp)));
+
+$eschborn-light-theme: map_merge($eschborn-light-theme, (background: $eschborn-light-background));
+
+.eschborn-light-theme {
+  @include set-vars($eschborn-light-theme);
+  @include angular-material-theme($eschborn-light-theme);
+}
+
+// Makes the splash screen work at a root level
+:root {
+  --clr-neutral-m4: #F4F5F7;
+  --clr-secondary: #465871;
+}
