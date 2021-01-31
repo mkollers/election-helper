@@ -5,3 +5,4 @@
 [ ] Privacy infos
 [ ] Social media metadata
 [ ] PWA
+[ ] Unit tests
