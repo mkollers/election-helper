@@ -1,1 +1,13 @@
-<p>thesis-page works!</p>
+<ng-container *ngIf="index$ | async as index; else notFound">
+  <ng-container *ngIf="thesis$ | async as thesis; else notFound">
+    <h2>{{ index$ | async }}<span class="regular">/{{ config.theses.length }}</span> {{ thesis.short }}</h2>
+    <pre>{{ thesis.long}}</pre>
+    <button class="btn primary">stimme zu</button>
+    <button class="btn primary">neutral</button>
+    <button class="btn primary">stimme nicht zu</button>
+  </ng-container>
+</ng-container>
+
+<ng-template #notFound>
+  <p>Hoppla, diese These konnte nicht gefunden werden.</p>
+</ng-template>

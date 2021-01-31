@@ -8,7 +8,5 @@ import { CONFIG, Config } from 'src/config';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class LandingPageComponent {
-  constructor(@Inject(CONFIG) public config: Config) {
-  }
-
+  constructor(@Inject(CONFIG) public config: Config) { }
 }
