@@ -9,6 +9,16 @@
     color: var(--clr-secondary-contrast);
   }
 
+  &.error {
+    background: var(--clr-error);
+    color: var(--clr-error-contrast);
+  }
+
+  &.success {
+    background: var(--clr-success);
+    color: var(--clr-success-contrast);
+  }
+
   -webkit-tap-highlight-color: transparent;
   border-radius: 6px;
   border: none;
@@ -23,6 +33,7 @@
   position: relative;
   text-align: center;
   text-decoration: none;
+  text-transform: uppercase;
   transition: all .2s cubic-bezier(.35, 0, .25, 1);
   user-select: none;
   width: 100%;
