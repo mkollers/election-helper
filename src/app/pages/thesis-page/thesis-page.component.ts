@@ -20,7 +20,7 @@ export class ThesisPageComponent {
   ) {
     this.index$ = route.params.pipe(
       map(params => params.index)
-    );
+    );  
 
     this.thesis$ = this.index$.pipe(
       map(index => config.theses[index - 1])

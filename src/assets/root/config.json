@@ -6,8 +6,9 @@
     "Grüne": {}
   },
   "theses": [{
-    "short": "Bundeswehr im Inneren",
-    "long": "Bei der Terrorismusbekämpfung soll die Bundeswehr im Inland eingesetzt werden dürfen.",
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
     "evaluation": {
         "CDU": true,
         "Grüne": null

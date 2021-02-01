@@ -7,8 +7,10 @@ export interface Party {
 };
 
 export interface Thesis {
-    short: string;
-    long: string;
+    image: string;
+    category: string;
+    thesis: string;
+    description?: string;
     evaluation: { [party: string]: boolean | null };
 };
 

@@ -10,7 +10,7 @@
   }
 
   -webkit-tap-highlight-color: transparent;
-  border-radius: 1000px;
+  border-radius: 6px;
   border: none;
   cursor: pointer;
   display: inline-block;
@@ -18,17 +18,17 @@
   font-weight: 400;
   letter-spacing: .3px;
   line-height: 1.5rem;
-  min-width: 4.6875rem;
   outline: none;
-  padding: .5rem 1.5rem;
+  padding: 10px 20px;
   position: relative;
+  text-align: center;
   text-decoration: none;
   transition: all .2s cubic-bezier(.35, 0, .25, 1);
   user-select: none;
+  width: 100%;
 
   &:hover {
     box-shadow: 0 2px 4px rgb(0 0 0 / 20%);
-    transform: translateY(-2px);
     transition: all .2s cubic-bezier(.35, 0, .25, 1);
   }
 }

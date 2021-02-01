@@ -1,10 +1,17 @@
 <ng-container *ngIf="index$ | async as index; else notFound">
   <ng-container *ngIf="thesis$ | async as thesis; else notFound">
-    <h2>{{ index$ | async }}<span class="regular">/{{ config.theses.length }}</span> {{ thesis.short }}</h2>
-    <pre>{{ thesis.long}}</pre>
-    <button class="btn primary">stimme zu</button>
-    <button class="btn primary">neutral</button>
-    <button class="btn primary">stimme nicht zu</button>
+    <section class="card curr">
+      <section class="card--image">
+        <img [src]="thesis.image">
+      </section>
+      <h2 class="card--header">{{ thesis.category }} </h2>
+      <pre class="card--content">{{ thesis.thesis }}</pre>
+      <footer class="card--footer">
+        <button class="btn">stimme zu</button>
+        <button class="btn">neutral</button>
+        <button class="btn">stimme nicht zu</button>
+      </footer>
+    </section>
   </ng-container>
 </ng-container>
 
