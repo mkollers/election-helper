@@ -6,3 +6,5 @@
 [ ] Social media metadata
 [ ] PWA
 [ ] Unit tests
+[ ] Readable Urls
+[ ] Optimize images
