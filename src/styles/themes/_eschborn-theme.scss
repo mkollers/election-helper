@@ -1,34 +1,34 @@
-$eschborn-blue: (
-    50 : #e7f3fb,
-    100 : #c2e0f4,
-    200 : #9acced,
-    300 : #71b7e6,
-    400 : #52a7e0,
-    500 : #3498db,
-    600 : #2f90d7,
-    700 : #2785d2,
-    800 : #217bcd,
-    900 : #156ac4,
-    A100 : #f5f9ff,
-    A200 : #c2ddff,
-    A400 : #8fc1ff,
-    A700 : #75b3ff,
-    contrast: (
-        50 : #000,
-        100 : #000,
-        200 : #000,
-        300 : #000,
-        400 : #000,
-        500 : #ffffff,
-        600 : #ffffff,
-        700 : #ffffff,
-        800 : #ffffff,
-        900 : #ffffff,
-        A100 : #000,
-        A200 : #000,
-        A400 : #000,
-        A700 : #000,
-    )
+$eschborn-pink: (
+  50 : #fde6ec,
+  100 : #f9c0cf,
+  200 : #f596af,
+  300 : #f16b8f,
+  400 : #ee4c77,
+  500 : #eb2c5f,
+  600 : #e92757,
+  700 : #e5214d,
+  800 : #e21b43,
+  900 : #dd1032,
+  A100 : #ffffff,
+  A200 : #ffd7dc,
+  A400 : #ffa4b0,
+  A700 : #ff8b9a,
+  contrast: (
+      50 : #000000,
+      100 : #000000,
+      200 : #000000,
+      300 : #000000,
+      400 : #000000,
+      500 : #ffffff,
+      600 : #ffffff,
+      700 : #ffffff,
+      800 : #ffffff,
+      900 : #ffffff,
+      A100 : #000000,
+      A200 : #000000,
+      A400 : #000000,
+      A700 : #000000,
+  )
 );
 
 $eschborn-orange: (
@@ -125,7 +125,7 @@ $eschborn-orange: (
   --clr-info-contrast: #FFFFFF;
 }
 
-$primary: mat-palette($eschborn-blue);
+$primary: mat-palette($eschborn-pink);
 $secondary: mat-palette($eschborn-orange);
 
 $eschborn-light-theme: mat-light-theme($primary, $secondary);
