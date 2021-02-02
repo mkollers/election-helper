@@ -1,27 +1,48 @@
 .btn {
   &.primary {
     background: var(--clr-primary-50);
+    color: var(--clr-primary-50-contrast);
     border-color: var(--clr-primary);
 
     &::before {
       background: var(--clr-primary-300);
       box-shadow: 0 0 0 2px var(--clr-primary), 0 0.625em 0 0 var(--clr-primary-50);
     }
+
+    &:hover,
+    &:active {
+      background: var(--clr-primary-100);
+
+      &::before {
+        box-shadow: 0 0 0 2px var(--clr-primary), 0 0.5em 0 0 var(--clr-primary-50);
+      }
+    }
   }
 
   &.secondary {
     background: var(--clr-secondary-50);
     border-color: var(--clr-secondary);
+    color: var(--clr-secondary-50-contrast);
 
     &::before {
       background: var(--clr-secondary-300);
       box-shadow: 0 0 0 2px var(--clr-secondary), 0 0.625em 0 0 var(--clr-secondary-50);
+    }
+
+    &:hover,
+    &:active {
+      background: var(--clr-secondary-100);
+
+      &::before {
+        box-shadow: 0 0 0 2px var(--clr-secondary), 0 0.5em 0 0 var(--clr-secondary-50);
+      }
     }
   }
 
   &.error {
     background: var(--clr-error-50);
     border-color: var(--clr-error);
+    color: var(--clr-error-50-contrast);
 
     &::before {
       background: var(--clr-error-300);
@@ -41,6 +62,7 @@
   &.success {
     background: var(--clr-success-50);
     border-color: var(--clr-success);
+    color: var(--clr-success-50-contrast);
 
     &::before {
       background: var(--clr-success-300);
@@ -60,6 +82,7 @@
   background: #eaeaea;
   border-radius: 6px;
   border: 2px solid #4d4d4d;
+  color: #000;
   cursor: pointer;
   display: inline-block;
   font-family: inherit;

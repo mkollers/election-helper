@@ -1,7 +1,5 @@
 :host {
-  background-color: var(--clr-neutral-1dp);
   bottom: 0;
-  color: var(--clr-primary-m1-contrast);
   left: 0;
   overflow: auto;
   position: fixed;
@@ -16,7 +14,6 @@
 }
 
 h1 {
-  color: var(--clr-primary);
   font-size: 3rem;
   font-weight: 300;
   letter-spacing: .8px;

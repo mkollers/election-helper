@@ -71,6 +71,8 @@ $eschborn-orange: (
   // Primary
   --clr-primary-50: #{mat-color($primary, 50)};
   --clr-primary-50-contrast: #{mat-contrast($primary, 50)};
+  --clr-primary-100: #{mat-color($primary, 100)};
+  --clr-primary-100-contrast: #{mat-contrast($primary, 100)};
   --clr-primary-300: #{mat-color($primary, 300)};
   --clr-primary-300-contrast: #{mat-contrast($primary, 300)};
   --clr-primary: #{mat-color($primary, 500)};
@@ -81,7 +83,9 @@ $eschborn-orange: (
   // Secondary
   --clr-secondary-50: #{mat-color($secondary, 50)};
   --clr-secondary-50-contrast: #{mat-contrast($secondary, 300)};
-  --clr-secondary-300: #{mat-color($secondary, 50)};
+  --clr-secondary-100: #{mat-color($secondary, 100)};
+  --clr-secondary-100-contrast: #{mat-contrast($secondary, 100)};
+  --clr-secondary-300: #{mat-color($secondary, 300)};
   --clr-secondary-300-contrast: #{mat-contrast($secondary, 300)};
   --clr-secondary: #{mat-color($secondary, 500)};
   --clr-secondary-contrast: #{mat-contrast($secondary, 500)};
