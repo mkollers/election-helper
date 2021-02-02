@@ -8,3 +8,4 @@
 [ ] Unit tests
 [ ] Readable Urls
 [ ] Optimize images
+[ ] Netflify SPA Config
