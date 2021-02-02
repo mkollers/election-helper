@@ -14,20 +14,20 @@ $eschborn-blue: (
     A400 : #8fc1ff,
     A700 : #75b3ff,
     contrast: (
-        50 : #465871,
-        100 : #465871,
-        200 : #465871,
-        300 : #465871,
-        400 : #465871,
+        50 : #000,
+        100 : #000,
+        200 : #000,
+        300 : #000,
+        400 : #000,
         500 : #ffffff,
         600 : #ffffff,
         700 : #ffffff,
         800 : #ffffff,
         900 : #ffffff,
-        A100 : #465871,
-        A200 : #465871,
-        A400 : #465871,
-        A700 : #465871,
+        A100 : #000,
+        A200 : #000,
+        A400 : #000,
+        A700 : #000,
     )
 );
 
@@ -47,20 +47,20 @@ $eschborn-orange: (
   A400 : #ffbb8b,
   A700 : #ffac72,
   contrast: (
-    50 : #465871,
-    100 : #465871,
-    200 : #465871,
-    300 : #465871,
-    400 : #465871,
+    50 : #000,
+    100 : #000,
+    200 : #000,
+    300 : #000,
+    400 : #000,
     500 : #ffffff,
     600 : #ffffff,
     700 : #ffffff,
     800 : #ffffff,
     900 : #ffffff,
-    A100 : #465871,
-    A200 : #465871,
-    A400 : #465871,
-    A700 : #465871,
+    A100 : #000,
+    A200 : #000,
+    A400 : #000,
+    A700 : #000,
   )
 );
 
@@ -69,16 +69,20 @@ $eschborn-orange: (
   $secondary: map-get($theme, accent);
 
   // Primary
-  --clr-primary-m1: #{mat-color($primary, 50)};
-  --clr-primary-m1-contrast: #{mat-contrast($primary, 50)};
+  --clr-primary-50: #{mat-color($primary, 50)};
+  --clr-primary-50-contrast: #{mat-contrast($primary, 50)};
+  --clr-primary-300: #{mat-color($primary, 300)};
+  --clr-primary-300-contrast: #{mat-contrast($primary, 300)};
   --clr-primary: #{mat-color($primary, 500)};
   --clr-primary-contrast: #{mat-contrast($primary, 500)};
   --clr-primary-p1: #{mat-color($primary, 900)};
   --clr-primary-p1-contrast: #{mat-contrast($primary, 900)};
 
   // Secondary
-  --clr-secondary-m1: #{mat-color($secondary, 50)};
-  --clr-secondary-m1-contrast: #{mat-contrast($secondary, 50)};
+  --clr-secondary-50: #{mat-color($secondary, 50)};
+  --clr-secondary-50-contrast: #{mat-contrast($secondary, 300)};
+  --clr-secondary-300: #{mat-color($secondary, 50)};
+  --clr-secondary-300-contrast: #{mat-contrast($secondary, 300)};
   --clr-secondary: #{mat-color($secondary, 500)};
   --clr-secondary-contrast: #{mat-contrast($secondary, 500)};
   --clr-secondary-p1: #{mat-color($secondary, 900)};
@@ -98,12 +102,18 @@ $eschborn-orange: (
   --clr-neutral-white: #FAFAFA;
 
   // Denotive
+  --clr-error-50: #fff3ed;
+  --clr-error-100: #ffe0d1;
+  --clr-error-300: #ffb894;
   --clr-error: #ff9966;
   --clr-error-contrast: #FFFFFF;
 
   --clr-warn: #ffcc00;
   --clr-warn-contrast: #FFFFFF;
 
+  --clr-success-50: #f3f9e7;
+  --clr-success-100: #e0f0c2;
+  --clr-success-300: #b8db70;
   --clr-success: #99cc33;
   --clr-success-contrast: #FFFFFF;
 
@@ -124,7 +134,7 @@ $eschborn-light-theme: map_merge($eschborn-light-theme, (background: $eschborn-l
 // Makes the splash screen work at a root level
 :root {
   --clr-neutral-m4: #F4F5F7;
-  --clr-secondary: #465871;
+  --clr-secondary: #000;
 }
 
 .eschborn-light-theme {
