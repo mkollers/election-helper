@@ -10,15 +10,264 @@
     "category": "5G Ausbau",
     "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
     "evaluation": {
-        "CDU": true,
-        "Grüne": null
+      "CDU": true,
+      "Grüne": null
     }
   }, {
-    "short": "Besteuerung von Pkw-Diesel",
-    "long": "Dieselkraftstoff für Pkw soll höher besteuert werden.",
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
     "evaluation": {
-        "CDU": false,
-        "Grüne": true
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/bahnhof.jpg",
+    "category": "Barrierefreihe Bahnhöfe Eschborn Bhf / Niederhöchstadt",
+    "thesis": "Die Bahnhöfe Eschborn und Niederhöchstadt sollen umfassend modernisiert und barrierefrei werden.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/broken-261426_640.jpg",
+    "category": "Bebauung alte Feuerwache",
+    "thesis": "Auf dem Gelände der alten Feuerwehr Eschborn soll eine Wohnanlage für Jung und Alt entstehen, d.h. inklusive U3-Betreuung und Seniorenwohnungen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/social-housing-1268009_640.jpg",
+    "category": "Bezahlbarer Wohnraum / Sozialwohnungen",
+    "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/money-2724241_640.jpg",
+    "category": "Bürgerhaushalt",
+    "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/bus-2755560_640.jpg",
+    "category": "E-Stadtbus",
+    "thesis": "Ein E-Stadtbus soll die Stadtteile besser verbinden.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/electric-car-4381728_640.jpg",
+    "category": "Elektroauto-Ladestationen",
+    "thesis": "Die Stadt soll die Anzahl der Ladestationen für Elektroautos aktiv fördern.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/cycle-path-228126_640.jpg",
+    "category": "Fahrradweg Dörnweg",
+    "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/skyline-3581739_640.jpg",
+    "category": "Förderung von Kultur- und Sport in Frankfurt",
+    "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/calculator-385506_640.jpg",
+    "category": "Gewerbesteuer",
+    "thesis": "Der Gewerbesteuerhebesatz soll gesenkt werden, um die Stadt attraktiver für Unternehmen werden zu lassen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
+    }
+  }, {
+    "image": "/assets/5g.jpg",
+    "category": "5G Ausbau",
+    "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
+    "evaluation": {
+      "CDU": true,
+      "Grüne": null
     }
   }]
 }
