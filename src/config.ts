@@ -15,7 +15,7 @@ export interface Thesis {
 };
 
 export interface Config {
-    headline: string,
+    logo: string,
     welcome_text: string,
     parties: { [key: string]: Party };
     theses: Thesis[];
