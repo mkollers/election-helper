@@ -1,4 +1,4 @@
-[ ] Theses
+[x] Theses
 [ ] Results
 [ ] Standard metadata (favicon, title, description...)
 [ ] Imprint
