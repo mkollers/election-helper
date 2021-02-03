@@ -8,4 +8,6 @@
 [ ] Unit tests
 [ ] Readable Urls
 [ ] Optimize images
-[ ] Netflify SPA Config
+[x] Netflify SPA Config
+[ ] FAQ
+[ ] Change prefix to "eschomat"
