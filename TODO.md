@@ -11,3 +11,4 @@
 [x] Netflify SPA Config
 [ ] FAQ
 [ ] Change prefix to "eschomat"
+[ ] Buttons auf desktop nebeneinander
