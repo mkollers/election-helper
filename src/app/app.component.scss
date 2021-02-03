@@ -3,17 +3,14 @@
   min-height: calc(100vH + env(safe-area-inset-bottom));
   padding-bottom: env(safe-area-inset-bottom);
   display: grid;
-  grid-template-areas:
-    "content"
-    "footer";
-  grid-template-rows: 1fr auto;
-  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto 1fr;
+  grid-template-columns: 1fr auto 1fr;
   padding-left: env(safe-area-inset-left);
   padding-right: env(safe-area-inset-right);
 }
 
 .content {
-  grid-area: content;
+  grid-area: 2/2;
   margin: 0 auto;
   max-width: 800px;
   padding: 16px var(--content-padding);
@@ -21,7 +18,7 @@
 
 #logo {
   margin-bottom: 10px;
- 
+
   img {
     width: 100%;
   }
