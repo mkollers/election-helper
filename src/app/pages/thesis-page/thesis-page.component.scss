@@ -1,8 +1,7 @@
 :host {
   display: grid;
   gap: 0 16px;
-  grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: 1fr 2fr 1fr;
   grid-template-areas: "prev curr next";
 }
 
@@ -11,32 +10,5 @@
 }
 
 .card--image {
-  height: 340px;
+  height: 200px;
 }
-
-// :host {
-//   display: grid;
-//   gap: 0 8px;
-//   grid-template-rows: repeat(3, auto);
-//   grid-template-columns: repeat(3, 1fr);
-//   grid-template-areas:
-//     "thesis thesis thesis"
-//     "description description description"
-//     "agree neutral disagree";
-// }
-
-// h2 {
-//   color: var(--clr-secondary);
-//   font-size: 1.25rem;
-//   font-weight: 600;
-//   grid-area: thesis;
-//   letter-spacing: 1.8px;
-// }
-
-// pre {
-//   grid-area: description;
-// }
-
-// .regular {
-//   font-weight: 400;
-// }

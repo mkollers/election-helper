@@ -12,9 +12,9 @@
     "footer";
   margin: auto;
   max-width: 450px;
-  min-width: 400px;
   overflow: hidden;
   transition: 0.2s ease;
+  width: 100%;
 
   .card--image {
     grid-column: span 3;
@@ -41,7 +41,7 @@
 
   .card--footer {
     display: grid;
-    gap: 32px;
+    gap: 16px;
     grid-column: span 3;
     margin: 0 25px 40px;
   }
