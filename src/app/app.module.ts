@@ -16,7 +16,9 @@ import { LayoutModule } from './shared/layout/layout.module';
     // Custom
     LayoutModule
   ],
-  providers: [],
+  providers: [
+    { provide: Storage, useValue: sessionStorage }
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
