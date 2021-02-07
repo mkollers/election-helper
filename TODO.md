@@ -12,3 +12,6 @@
 [ ] FAQ
 [ ] Change prefix to "eschomat"
 [ ] Buttons auf desktop nebeneinander
+[ ] Dots below thesis
+[ ] Thesis preview
+[ ] Swipe thesis
