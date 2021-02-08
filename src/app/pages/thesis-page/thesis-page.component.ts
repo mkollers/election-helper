@@ -1,7 +1,9 @@
 import { ChangeDetectionStrategy, Component, Inject } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
-import { config, Observable } from 'rxjs';
+import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
+import { Answer } from 'src/app/shared/answer';
+import { STORAGE } from 'src/app/shared/storage.injection-token';
 import { CONFIG, Config, Thesis } from 'src/config';
 
 @Component({
@@ -16,6 +18,7 @@ export class ThesisPageComponent {
 
   constructor(
     @Inject(CONFIG) public config: Config,
+    @Inject(STORAGE) private _storage: Storage,
     private _router: Router,
     route: ActivatedRoute
   ) {
@@ -28,16 +31,9 @@ export class ThesisPageComponent {
     );
   }
 
-  aggree(index: number) {
-    this.navigate(index);
-  }
-
-  disaggree(index: number) {
-    this.navigate(index);
-  }
-
-  neutral(index: number) {
-    this.navigate(index);
+  answer(index: number, answer: Answer | string) {
+    this._storage.setItem(index.toString(), answer.toString());
+    this.navigate(index + 1);
   }
 
   async navigate(index: number) {

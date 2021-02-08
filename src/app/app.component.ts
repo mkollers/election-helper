@@ -5,7 +5,10 @@ import { Config, CONFIG } from 'src/config';
   selector: 'app-root, [app-root]',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  host: {
+    class: 'eschomat-root'
+  }
 })
 export class AppComponent {
   constructor(@Inject(CONFIG) public config: Config) {

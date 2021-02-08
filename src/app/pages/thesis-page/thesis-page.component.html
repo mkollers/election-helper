@@ -7,9 +7,9 @@
       <h2 class="card--header">{{ thesis.category }} </h2>
       <pre class="card--content">{{ thesis.thesis }}</pre>
       <footer class="card--footer">
-        <button class="btn success" (click)="aggree(index + 1)">stimme zu</button>
-        <button class="btn" (click)="neutral(index + 1)">neutral</button>
-        <button class="btn error" (click)="disaggree(index + 1)">stimme nicht zu</button>
+        <button class="btn success" (click)="answer(index, 'agree')">stimme zu</button>
+        <button class="btn" (click)="answer(index, 'neutral')">neutral</button>
+        <button class="btn error" (click)="answer(index, 'disagree')">stimme nicht zu</button>
       </footer>
     </section>
   </ng-container>

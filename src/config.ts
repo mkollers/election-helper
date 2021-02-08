@@ -1,4 +1,5 @@
 import { InjectionToken } from '@angular/core';
+import { Answer } from './app/shared/answer';
 
 export const CONFIG = new InjectionToken<Config>('CONFIG');
 
@@ -11,7 +12,7 @@ export interface Thesis {
     category: string;
     thesis: string;
     description?: string;
-    evaluation: { [party: string]: boolean | null };
+    evaluation: { [party: string]: Answer };
 };
 
 export interface Config {

@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LayoutModule } from './shared/layout/layout.module';
+import { STORAGE } from './shared/storage.injection-token';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,7 @@ import { LayoutModule } from './shared/layout/layout.module';
     LayoutModule
   ],
   providers: [
-    { provide: Storage, useValue: sessionStorage }
+    { provide: STORAGE, useValue: sessionStorage }
   ],
   bootstrap: [AppComponent]
 })

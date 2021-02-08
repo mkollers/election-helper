@@ -5,11 +5,10 @@
 /* Include common styles */
 @include mat-core();
 
-/* All custom styles, which probably override material styles */
-@import './styles/global';
-
-/* All custom styles, which probably override material styles */
-// @import './styles/global';
+.eschomat-root {
+  /* All custom styles, which probably override material styles */
+  @import './styles/global';
+}
 
 :root {
   --content-padding: 16px;

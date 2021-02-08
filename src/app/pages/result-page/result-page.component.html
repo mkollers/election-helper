@@ -1,12 +1,15 @@
-<section class="card curr">
+<section class="card">
+  <h2 class="card--header">Warnhinweis!</h2>
+  <pre class="card--content">Diese Ergebnis basieren auf temporären Testdaten und nicht auf den echten
+    Wahlprogrammen der Parteien!</pre>
+</section>
+<section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
   <section class="card--image">
     <!-- <img [src]="thesis.image"> -->
   </section>
-  <!-- <h2 class="card--header">{{ thesis.category }} </h2>
-  <pre class="card--content">{{ thesis.thesis }}</pre>
-  <footer class="card--footer">
-    <button class="btn success" (click)="aggree(index + 1)">stimme zu</button>
-    <button class="btn" (click)="neutral(index + 1)">neutral</button>
-    <button class="btn error" (click)="disaggree(index + 1)">stimme nicht zu</button>
-  </footer> -->
+  <h2 class="card--header">{{ party.key }} </h2>
+  <pre class="card--content">
+    <mat-progress-bar [value]="100 / possible * (party.value || 0)"></mat-progress-bar>
+    <span class="progresss-label">{{ 100 / possible * (party.value || 0) | number: '1.0-0' }}%</span>
+  </pre>
 </section>
