@@ -15,3 +15,4 @@
 [ ] Dots below thesis
 [ ] Thesis preview
 [ ] Swipe thesis
+[ ] Improve imports (@shared..etc)
