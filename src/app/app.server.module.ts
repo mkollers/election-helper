@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { ServerModule } from '@angular/platform-server';
-
-import { AppModule } from './app.module';
-import { AppComponent } from './app.component';
 import { CONFIG } from 'src/config';
+
+import { AppComponent } from './app.component';
+import { AppModule } from './app.module';
 
 @NgModule({
   imports: [
@@ -12,7 +12,7 @@ import { CONFIG } from 'src/config';
   ],
   bootstrap: [AppComponent],
   providers: [
-    { provide: CONFIG, useValue: require('../assets/root/config.json')}
+    { provide: CONFIG, useValue: require('../assets/root/config.json') }
   ]
 })
-export class AppServerModule {}
+export class AppServerModule { }

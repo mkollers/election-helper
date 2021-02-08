@@ -1,4 +1,4 @@
-import { Answer } from './answer';
+import { Answer } from '../models/answer';
 
 export const CalculationGrid: { [user: string]: { [party: string]: number } } = {
     [Answer.AGREE]: {

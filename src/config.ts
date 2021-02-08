@@ -1,5 +1,5 @@
 import { InjectionToken } from '@angular/core';
-import { Answer } from './app/shared/answer';
+import { Answer } from './app/shared/helper/models/answer';
 
 export const CONFIG = new InjectionToken<Config>('CONFIG');
 

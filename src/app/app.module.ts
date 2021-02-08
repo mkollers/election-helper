@@ -3,8 +3,9 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { storageFactory } from './shared/helper/factories/storage.factory';
+import { STORAGE } from './shared/helper/injection-tokens/storage.injection-token';
 import { LayoutModule } from './shared/layout/layout.module';
-import { STORAGE } from './shared/storage.injection-token';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,7 @@ import { STORAGE } from './shared/storage.injection-token';
     LayoutModule
   ],
   providers: [
-    { provide: STORAGE, useValue: sessionStorage }
+    { provide: STORAGE, useFactory: storageFactory }
   ],
   bootstrap: [AppComponent]
 })
