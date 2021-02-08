@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { NgModule, PLATFORM_ID } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
@@ -19,7 +19,7 @@ import { LayoutModule } from './shared/layout/layout.module';
     LayoutModule
   ],
   providers: [
-    { provide: STORAGE, useFactory: storageFactory }
+    { provide: STORAGE, useFactory: storageFactory, deps: [PLATFORM_ID] }
   ],
   bootstrap: [AppComponent]
 })
