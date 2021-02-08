@@ -1,5 +1,5 @@
 [x] Theses
-[ ] Results
+[x] Results
 [x] Standard metadata (favicon, title, description...)
 [ ] Imprint
 [ ] Privacy infos
@@ -16,3 +16,4 @@
 [ ] Thesis preview
 [ ] Swipe thesis
 [ ] Improve imports (@shared..etc)
+[ ] Skip thesis
