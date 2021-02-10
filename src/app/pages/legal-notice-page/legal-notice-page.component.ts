@@ -1,4 +1,5 @@
-import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
+import { ChangeDetectionStrategy, Component, Inject } from '@angular/core';
+import { CONFIG, Config } from 'src/config';
 
 @Component({
   selector: 'app-legal-notice-page',
@@ -6,11 +7,6 @@ import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
   styleUrls: ['./legal-notice-page.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class LegalNoticePageComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+export class LegalNoticePageComponent {
+  constructor(@Inject(CONFIG) public config: Config) { }
 }

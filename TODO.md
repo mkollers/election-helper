@@ -1,7 +1,7 @@
 [x] Theses
 [x] Results
 [x] Standard metadata (favicon, title, description...)
-[ ] Imprint
+[x] Imprint
 [ ] Privacy infos
 [x] Social media metadata
 [ ] PWA

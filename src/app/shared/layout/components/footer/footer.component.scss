@@ -4,29 +4,22 @@
   display: grid;
   gap: 20px;
   grid-template-columns: 1fr repeat(2, auto);
-  padding: 15px 30px;
+  padding: 15px var(--content-padding);
 
   @media #{$mat-xs} {
     grid-template-columns: auto;
     grid-template-rows: repeat(3, auto);
     justify-items: center;
+    gap: 10px;
   }
 }
 
 a {
-  border-bottom: 1px solid transparent;
-  color: rgba(0, 0, 0, .87);
-  display: flex;
-  justify-self: left;
   font-weight: 400;
   font-size: .875rem;
-  letter-spacing: 1px;
-  text-decoration: none;
-  transition: all .3s ease-in-out;
 
-  &.active, &:hover {
-    border-bottom: 1px solid var(--clr-primary);
-    color: var(--clr-primary);
-    transition: all .3s ease-in-out;
+  @media #{$mat-gt-xs} {
+    display: flex;
+    justify-self: left;
   }
 }
