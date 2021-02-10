@@ -17,3 +17,5 @@
 [ ] Swipe thesis
 [ ] Improve imports (@shared..etc)
 [ ] Skip thesis
+[ ] Fix not clickable buttons
+[ ] Fix card height
