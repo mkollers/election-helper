@@ -1,7 +1,15 @@
+@import 'breakpoints';
+
 :host {
   display: grid;
   gap: 20px;
   grid-template-columns: 1fr repeat(2, auto);
-  margin-top: 20px;
-  max-width: 400px;
+  padding: 15px 30px;
+
+
+  @media #{$mat-xs} {
+    grid-template-columns: auto;
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+  }
 }
