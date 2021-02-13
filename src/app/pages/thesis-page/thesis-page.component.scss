@@ -7,3 +7,26 @@
 .card--image {
   height: 200px;
 }
+
+.dots {
+  margin: 15px auto;
+  text-align: center;
+}
+
+.dot {
+  background: var(--clr-primary-100);
+  border-radius: 1000px;
+  border: 1px solid transparent;
+  display: inline-block;
+  height: 7px;
+  margin: 2px;
+  transition: 0.2s ease-in-out;
+  width: 7px;
+
+  &.active,
+  &:hover {
+    background: var(--clr-primary);
+    border: 1px solid var(--clr-primary);
+    transition: 0.2s ease-in-out;
+  }
+}

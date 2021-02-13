@@ -1,6 +1,6 @@
 <ng-container *ngIf="index$ | async as index; else notFound">
   <ng-container *ngIf="thesis$ | async as thesis; else notFound">
-    <section class="card curr">
+    <section class="card">
       <section class="card--image">
         <img [src]="thesis.image">
       </section>
@@ -11,6 +11,10 @@
         <button class="btn" (click)="answer(index, 'neutral')">neutral</button>
         <button class="btn error" (click)="answer(index, 'disagree')">stimme nicht zu</button>
       </footer>
+    </section>
+    <section class="dots">
+      <a [routerLink]="'/thesen/' + (i + 1)" class="dot" routerLinkActive="active"
+        *ngFor="let t of config.theses; let i = index"></a>
     </section>
   </ng-container>
 </ng-container>
