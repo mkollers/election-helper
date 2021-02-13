@@ -1,3 +1,5 @@
+[ ] Tool tips for dots
+[ ] Tool tip for mobile with "HTML Content"
 [x] Fix horizontal padding/margin of card on mobile
 [ ] Add "more info" functionality including description text, evaluation and statement text of parties
 [ ] "back" button
@@ -26,3 +28,4 @@
 [ ] Fix not clickable buttons
 [ ] Fix card height
 [ ] Add security headers
+[ ] Dark mode
