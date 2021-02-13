@@ -3,13 +3,24 @@
   "welcome_text": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen.\n\nDer Eschomat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.",
   "parties": {
     "CDU": {
-      "name": "Christlich Demokratische Union"
+      "name": "Christlich Demokratische Union",
+      "logo": "/assets/logos_parties/cdu.svg"
     },
-    "Grüne": {},
-    "SPD": {},
-    "FDP": {},
-    "FWE": {},
-    "Linke": {}
+    "Grüne": {
+      "logo": "/assets/logos_parties/gruene.svg"
+    },
+    "SPD": {
+      "logo": "/assets/logos_parties/spd.svg"
+    },
+    "FDP": {
+      "logo": "/assets/logos_parties/fdp.svg"
+    },
+    "FWE": {
+      "logo": "/assets/logos_parties/fwe.svg"
+    },
+    "Linke": {
+      "logo": "/assets/logos_parties/linke.svg"
+    }
   },
   "faq": [{
     "question": "Was ist das Ziel des Eschomat?",

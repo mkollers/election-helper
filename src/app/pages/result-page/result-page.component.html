@@ -1,6 +1,6 @@
 <section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
-  <section class="card--image">
-    <!-- <img [src]="thesis.image"> -->
+  <section class="card--image" *ngIf="config.parties[party.key]?.logo">
+    <img [src]="config.parties[party.key]?.logo">
   </section>
   <h2 class="card--header">{{ party.key }} </h2>
   <pre class="card--content">

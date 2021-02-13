@@ -5,6 +5,7 @@ export const CONFIG = new InjectionToken<Config>('CONFIG');
 
 export interface Party {
     name: string;
+    logo: string;
 };
 
 export interface Faq {
