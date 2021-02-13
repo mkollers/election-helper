@@ -18,7 +18,7 @@
 [ ] FAQ
 [ ] Change prefix to "eschomat"
 [ ] Buttons auf desktop nebeneinander
-[ ] Dots below thesis
+[x] Dots below thesis
 [ ] Thesis preview
 [ ] Swipe thesis
 [ ] Improve imports (@shared..etc)
