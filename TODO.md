@@ -1,4 +1,4 @@
-[ ] Fix horizontal padding/margin of card on mobile
+[x] Fix horizontal padding/margin of card on mobile
 [ ] Add "more info" functionality including description text, evaluation and statement text of parties
 [ ] "back" button
 [ ] Prevent vertical jumping when switching to next card on desktop (min-height?)

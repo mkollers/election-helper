@@ -1,12 +1,7 @@
 :host {
   display: grid;
   gap: 0 16px;
-  grid-template-columns: 1fr;
-  grid-template-areas: "prev curr next";
-}
-
-.curr {
-  grid-area: curr;
+  grid-template-columns: auto;
 }
 
 .card--image {
