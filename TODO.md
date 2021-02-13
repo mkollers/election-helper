@@ -19,3 +19,4 @@
 [ ] Skip thesis
 [ ] Fix not clickable buttons
 [ ] Fix card height
+[ ] Add security headers
