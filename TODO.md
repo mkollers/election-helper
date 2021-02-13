@@ -15,7 +15,7 @@
 [ ] Readable Urls
 [ ] Optimize images
 [x] Netflify SPA Config
-[ ] FAQ
+[x] FAQ
 [ ] Change prefix to "eschomat"
 [ ] Buttons auf desktop nebeneinander
 [x] Dots below thesis
