@@ -7,6 +7,11 @@ export interface Party {
     name: string;
 };
 
+export interface Faq {
+    question: string;
+    answer: string;
+};
+
 export interface Thesis {
     image: string;
     category: string;
@@ -25,4 +30,5 @@ export interface Config {
     welcome_text: string,
     parties: { [key: string]: Party };
     theses: Thesis[];
+    faq: Faq;
 };

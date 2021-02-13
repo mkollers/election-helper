@@ -1,8 +1,3 @@
-<section class="card">
-  <h2 class="card--header">Warnhinweis!</h2>
-  <pre class="card--content">Diese Ergebnis basieren auf temporären Testdaten und nicht auf den echten
-    Wahlprogrammen der Parteien!</pre>
-</section>
 <section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
   <section class="card--image">
     <!-- <img [src]="thesis.image"> -->
