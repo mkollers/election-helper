@@ -5,7 +5,8 @@ const routes: Routes = [
   { path: '', loadChildren: () => import('./pages/landing-page/landing-page.module').then(m => m.LandingPageModule) },
   { path: 'thesen/:index', loadChildren: () => import('./pages/thesis-page/thesis-page.module').then(m => m.ThesisPageModule) },
   { path: 'ergebnis', loadChildren: () => import('./pages/result-page/result-page.module').then(m => m.ResultPageModule) },
-  { path: 'impressum', loadChildren: () => import('./pages/legal-notice-page/legal-notice-page.module').then(m => m.LegalNoticePageModule) }
+  { path: 'impressum', loadChildren: () => import('./pages/legal-notice-page/legal-notice-page.module').then(m => m.LegalNoticePageModule) },
+  { path: 'datenschutz', loadChildren: () => import('./pages/privacy-page/privacy-page.module').then(m => m.PrivacyPageModule) }
 ];
 
 @NgModule({
