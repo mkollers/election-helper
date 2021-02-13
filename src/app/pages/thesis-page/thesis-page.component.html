@@ -2,7 +2,7 @@
   <ng-container *ngIf="thesis$ | async as thesis; else notFound">
     <section class="card">
       <section class="card--image">
-        <img [src]="thesis.image">
+        <img [src]="thesis.image" width="450" height="253">
       </section>
       <h2 class="card--header">{{ thesis.category }} </h2>
       <pre class="card--content">{{ thesis.thesis }}</pre>
