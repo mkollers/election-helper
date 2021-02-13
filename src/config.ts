@@ -12,7 +12,12 @@ export interface Thesis {
     category: string;
     thesis: string;
     description?: string;
-    evaluation: { [party: string]: Answer };
+    evaluation: {
+        [party: string]: {
+            position: Answer,
+            statement: string
+        }
+    };
 };
 
 export interface Config {

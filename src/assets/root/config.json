@@ -17,12 +17,24 @@
     "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/bahnhof_eschborn.jpg",
@@ -30,12 +42,24 @@
     "thesis": "Die Bahnhöfe Eschborn und Niederhöchstadt sollen umfassend modernisiert und barrierefrei werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/feuerwehr_eschborn.jpg",
@@ -43,12 +67,24 @@
     "thesis": "Auf dem Gelände der alten Feuerwehr Eschborn soll eine Wohnanlage für Jung und Alt entstehen, d.h. inklusive U3-Betreuung und Seniorenwohnungen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/bezahlbarer_wohnraum.jpg",
@@ -56,12 +92,24 @@
     "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -69,12 +117,24 @@
     "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/bus.jpg",
@@ -82,12 +142,24 @@
     "thesis": "Ein E-Stadtbus soll die Stadtteile besser verbinden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/ladestationen.jpg",
@@ -95,12 +167,24 @@
     "thesis": "Die Stadt soll die Anzahl der Ladestationen für Elektroautos aktiv fördern.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/fahrradweg_doernweg.jpg",
@@ -108,12 +192,24 @@
     "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/foerderung_frankfurt.jpg",
@@ -121,12 +217,24 @@
     "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/gewerbesteuer.jpg",
@@ -134,12 +242,24 @@
     "thesis": "Der Gewerbesteuerhebesatz soll gesenkt werden, um die Stadt attraktiver für Unternehmen werden zu lassen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/gruenderstadt.jpg",
@@ -147,12 +267,24 @@
     "thesis": "Die Stadt Eschborn soll eine \"Gründerstadt\" werden, indem sie Startups unterstützt, z.B. durch entsprechende Räumlichkeiten oder Beratungsangebote.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/heinrich_graf_sportanlage.jpg",
@@ -160,12 +292,24 @@
     "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/hofreite_niederhoechstadt.jpg",
@@ -173,12 +317,24 @@
     "thesis": "Die Hofreite in Niederhöchstadt soll genutzt werden, um die U3- und Ü3-Betreuung langfristig sicherzustellen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -186,12 +342,24 @@
     "thesis": "Die Stadt soll einem Trägerverein ein Gebäude für ein stationäres Hospiz bereitstellen oder neu errichten lassen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/hundesteuer.jpg",
@@ -199,12 +367,24 @@
     "thesis": "Die 2019 neu eingeführte Hundesteuer soll grundsätzlich beibehalten werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/josefstadt_west.jpg",
@@ -212,12 +392,24 @@
     "thesis": "Eschborn soll sich der Realisierung des Frankfurter Neubaugebiets, auch bekannt als \"Josefstadt-West\", widersetzen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/klimaneutrale_stadt.jpg",
@@ -225,12 +417,24 @@
     "thesis": "Die Stadt Eschborn soll in den nächsten Jahren klimaneutral werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/kommunale_hebamme.jpg",
@@ -238,12 +442,24 @@
     "thesis": "Die Stadt Eschborn soll eine kommunale Hebamme beschäftigen, um die Situation für angehende Eltern zu verbessern.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/hanseatenviertel.jpg",
@@ -251,12 +467,24 @@
     "thesis": "Das Hanseatenviertel soll durch geeignete Lärmschutzmaßnahmen vor dem Verkehrslärm geschützt werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/mobilfunkturm_niederhoechstadt.jpg",
@@ -264,12 +492,24 @@
     "thesis": "Der Mobilfunkturm in Niederhöchstadt soll schnellstmöglich außer Betrieb genommen werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -277,12 +517,24 @@
     "thesis": "Die Nahversorgung soll gestärkt werden, indem Kleingewerbtreibende in städtischen Gebäuden finanziell unterstützt werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/regionaltangente_west.jpg",
@@ -290,12 +542,24 @@
     "thesis": "Die Stadt Eschborn soll die Umsetzung der Regionaltangente West vorantreiben.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/wiesenbad_eschborn.jpg",
@@ -303,12 +567,24 @@
     "thesis": "Kinder aus Eschborn sollen das Wiesenbad kostenlos nutzen können, um perspektivisch dem steigenden Anteil an Nichtschwimmern entgegenzuwirken.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/sicherheitskameras.jpg",
@@ -316,12 +592,24 @@
     "thesis": "Um das Sicherheitsgefühl zu stärken und eventuelle Straftaten zu verhindern soll die Installation von Sicherheitskameras an ausgewählt Orten in Erwägung gezogen werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/smart_city.jpg",
@@ -329,12 +617,24 @@
     "thesis": "Eschborn soll zur Modellkommune für Smart City-Konzepte werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -342,12 +642,24 @@
     "thesis": "Die Stadtpolizei soll personell verstärkt werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/gewerbegebiete_beleben.jpg",
@@ -355,12 +667,24 @@
     "thesis": "Die Gewerbegebiete sollen Teil des Stadtlebens werden, indem dort Wohnflächen geschaffen werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -368,12 +692,24 @@
     "thesis": "Bestehende Städtepartnerschaften soll gestärkt werden und es soll nach neuen Partnerschaften gesucht werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -381,12 +717,24 @@
     "thesis": "Die Stadt Eschborn soll den Ausbau von privaten Photovoltaikanlagen finanziell fördern.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/sued_ost_verbindung.jpg",
@@ -394,12 +742,24 @@
     "thesis": "Die Planung der Süd-Ost-Verbindung soll gestoppt werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/hauptstrasse_niederhoechstadt.jpg",
@@ -407,12 +767,24 @@
     "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/wohnheim.jpg",
@@ -420,12 +792,24 @@
     "thesis": "Es soll ein Wohnheim für Studenten und Auszubildende gebaut werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/feuerwehr_niederhoechstadt.jpg",
@@ -433,12 +817,24 @@
     "thesis": "Die Feuerwehr Niederhöchstadt soll einen Anbau erhalten, um ihren Platzbedarf decken zu können.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/musikschule_niederhoechstadt.jpg",
@@ -446,12 +842,24 @@
     "thesis": "Für die Musikschule in Niederhöchstadt soll es einen Neubau geben.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/neubaugebiet_doernweg.jpg",
@@ -459,12 +867,24 @@
     "thesis": "Im Dörnweg nahe der Heinrich von Kleist-Schule soll die Umsetzung eines Neubaugebiets vorangetrieben werden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -472,12 +892,24 @@
     "thesis": "Auch nach der Pandemie soll langfristig und regelmäßig ein Open-Air-Kino stattfinden.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/platzhalter.jpg",
@@ -485,12 +917,24 @@
     "thesis": "Die Stadt Eschborn soll ein psychologisches Betreuungsangebot für Kinder und Jugendliche schaffen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }, {
     "image": "/assets/header/stadthalle.jpg",
@@ -498,12 +942,24 @@
     "thesis": "Der Neubau der Stadthalle soll weiterhin Teil des Rathauses sein und sich in Stil und Größe an den Rathausplatz einfügen.",
     "description": "",
     "evaluation": {
-      "CDU": "agree",
-      "Grüne": "disagree",
-      "FDP": "agree",
-      "SPD": "neutral",
-      "Linke": "neutral",
-      "FWE": "neutral"
+      "CDU": {
+        "position": "agree"
+      },
+      "Grüne": {
+        "position": "disagree"
+      },
+      "FDP": {
+        "position": "agree"
+      },
+      "SPD": {
+        "position": "neutral"
+      },
+      "Linke": {
+        "position": "neutral"
+      },
+      "FWE": {
+        "position": "neutral"
+      }
     }
   }]
 }

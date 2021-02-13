@@ -40,7 +40,7 @@ export class ResultPageComponent implements OnInit {
       for (const party in this.config.parties) {
         const position = thesis.evaluation[party];
 
-        result[party] += CalculationGrid[answer || 'skip'][position];
+        result[party] += CalculationGrid[answer || 'skip'][position.position];
       }
     }
 
