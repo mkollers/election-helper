@@ -10,6 +10,8 @@
 }
 
 .content {
+  display: flex;
+  flex-direction: column;
   grid-area: 2/2;
   margin: 0 auto;
   max-width: 800px;
@@ -19,4 +21,17 @@
 .eschomat-footer {
   grid-row: 4;
   grid-column: span 3;
+}
+
+#logo {
+  border-bottom: none !important;
+  display: flex;
+  margin-bottom: 20px;
+  align-self: center;
+
+  img {
+    justify-self: center;
+    align-self: center;
+    display: flex;
+  }
 }
