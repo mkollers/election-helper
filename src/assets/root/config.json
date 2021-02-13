@@ -11,6 +11,19 @@
     "FWE": {},
     "Linke": {}
   },
+  "faq": [{
+    "question": "Was ist das Ziel des Eschomat?",
+    "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen."
+  }, {
+    "question": "Spricht der Eschomat Wahlempfehlungen aus?",
+    "answer": "Nein, die Auswertung soll nur eine grobe Orientierung bieten und den Nutzer*Innen die Wahlprogramme der Parteien näher bringen.\n\nBei der Kommunalwahl kommt zudem durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzu, die sich nicht in solch einem Tool abbilden lässt."
+  }, {
+    "question": "Kumulieren und Panaschieren - was ist das?",
+    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten."
+  }, {
+    "question": "Welche Daten speichert ihr?",
+    "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
+  }],
   "theses": [{
     "image": "/assets/header/5g.jpg",
     "category": "5G Ausbau",
