@@ -2,7 +2,7 @@
 [x] Results
 [x] Standard metadata (favicon, title, description...)
 [x] Imprint
-[ ] Privacy infos
+[x] Privacy infos
 [x] Social media metadata
 [ ] PWA
 [ ] Unit tests
