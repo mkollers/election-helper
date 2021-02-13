@@ -1,3 +1,9 @@
+[ ] Prevent vertical jumping when switching to next card on desktop (min-height?)
+[ ] "back" button
+[ ] shorten button animation by half (make them more snappy)
+[ ] Fix horizontal padding/margin of card on mobile
+[ ] Add "more info" functionality including description text, evaluation and statement text of parties
+[ ] Larger cards for desktop to be able to position buttons next to each other?
 [x] Theses
 [x] Results
 [x] Standard metadata (favicon, title, description...)
