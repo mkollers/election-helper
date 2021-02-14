@@ -1,10 +1,12 @@
 <section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
   <section class="card--image" *ngIf="config.parties[party.key]?.logo">
-    <img [src]="config.parties[party.key]?.logo">
+    <img width="220" height="220" [src]="config.parties[party.key]?.logo">
   </section>
   <h2 class="card--header">{{ party.key }} </h2>
   <pre class="card--content">
+  </pre>
+  <footer class="card--footer">
     <mat-progress-bar [value]="100 / possible * (party.value || 0)"></mat-progress-bar>
     <span class="progresss-label">{{ 100 / possible * (party.value || 0) | number: '1.0-0' }}%</span>
-  </pre>
+  </footer>
 </section>

@@ -2,3 +2,43 @@
   display: grid;
   gap: 20px;
 }
+
+.card {
+  gap: 0 10px;
+  grid-template-rows: repeat(3, auto);
+  grid-template-columns: minmax(220px, 1fr) 2fr;
+  grid-template-areas:
+    "image header"
+    "image content"
+    "footer footer";
+
+  .card--image img {
+    object-fit: contain;
+    display: inherit;
+  }
+
+  .card--footer {
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+
+    .mat-progress-bar {
+      height: 2rem;
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      width: auto;
+    }
+
+    .progresss-label {
+      color: var(--clr-primary-contrast);
+      position: absolute;
+      left: 20px;
+      line-height: 2rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+  }
+}
