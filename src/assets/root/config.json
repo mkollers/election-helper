@@ -829,7 +829,7 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": "/assets/header/stadtpolizei.jpg",
     "category": "Stadtpolizei",
     "thesis": "Die Stadtpolizei soll personell verstärkt werden.",
     "description": "",
@@ -922,7 +922,7 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": "/assets/header/photovoltaik.jpg",
     "category": "Subventionierung von Photovoltaik-Anlagen für Bürger",
     "thesis": "Die Stadt Eschborn soll den Ausbau von privaten Photovoltaikanlagen finanziell fördern.",
     "description": "",
@@ -1170,7 +1170,7 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": "/assets/header/psychologische_betreuung.jpg",
     "category": "Psychologische Betreuung für Jugendliche",
     "thesis": "Die Stadt Eschborn soll ein psychologisches Betreuungsangebot für Kinder und Jugendliche schaffen.",
     "description": "",
