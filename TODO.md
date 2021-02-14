@@ -1,4 +1,10 @@
+[ ] Don't show category, instead free space for a thesis with bigger text and for the link for "more info"
+[ ] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
+[ ] Links to original manifestos ("Wahlprogramme") on results page
 [ ] How to add links in FAQ section?
+[ ] Finalize header images @ecki
+[ ] Finalize descriptions @ecki
+[ ] Finalize intro text @ecki
 [ ] WebP integration
 [ ] Tool tips for dots
 [ ] Tool tip for mobile with "HTML Content"
