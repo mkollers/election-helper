@@ -25,16 +25,19 @@
   "faq": [{
     "question": "Was ist das Ziel des Eschomat?",
     "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen."
-  }, {
+    }, {
     "question": "Spricht der Eschomat Wahlempfehlungen aus?",
     "answer": "Nein, die Auswertung soll nur eine grobe Orientierung bieten und den Nutzer*Innen die Wahlprogramme der Parteien näher bringen.\n\nBei der Kommunalwahl kommt zudem durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzu, die sich nicht in solch einem Tool abbilden lässt."
-  }, {
+    }, {
     "question": "Wer sind wir und warum machen wir das?",
     "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
-  }, {
+    }, {
+    "question": "Welche Bedeutung haben die Wahlprogramme für die Thesen",
+    "answer": "Die Wahlprogramme sind die Basis für die im Eschomat verwendeten Thesen. Jedoch können wir nur einen Bruchteil der Informationen abbilden, die in den Wahlprogrammen erarbeitet wurden. Deshalb möchten wir alle Wähler*innen motivieren sich die Wahlprogramme der Parteien anzuschauen.\nLink zu den Wahlprogrammen: CDU, FDP, FWE, Grüne, Linke, SPD"
+    }, {
     "question": "Kumulieren und Panaschieren - was ist das?",
     "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href=\"https://www.youtube.com/watch?v=gDEyqlw38aY\" target=\"_blank\" rel=\"noopener\">YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
-  }, {
+    }, {
     "question": "Welche Daten speichert ihr?",
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
   }],
@@ -163,7 +166,7 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": "/assets/header/buergerhaushalt.jpg",
     "category": "Bürgerhaushalt",
     "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
     "description": "Das Darmstädter Modell ermöglicht Bürger*innen online und offline den kommunalen Haushalt mitzugestalten.",
@@ -442,7 +445,7 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": "/assets/header/hospiz.jpg",
     "category": "Hospiz",
     "thesis": "Die Stadt soll einem Trägerverein ein Gebäude für ein stationäres Hospiz bereitstellen oder neu errichten lassen.",
     "description": "Aktuell gibt es in Eschborn ein ambulantes Hospiz vom „Lichtblick e.V.“. Die nächstgelegenen stationären Hospize befinden sich z.B. in Oberursel, Flörsheim am Main und Frankfurt. Die Zeitung <a href=\"https://www.fnp.de/lokales/main-taunus/eschborn-ort74774/begleitung-in-der-letzten-lebensphase-90106094.html\" target=\"_blank\" rel=\"noopener\">„Frankfurt Neue Presse“ berichtete</a>.",
