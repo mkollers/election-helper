@@ -16,17 +16,25 @@
         <button class="btn" (click)="answer(index, 'neutral')">neutral</button>
         <button class="btn error" (click)="answer(index, 'disagree')">stimme nicht zu</button>
       </footer>
-      <mat-expansion-panel class="card--additional">
-        <mat-expansion-panel-header>Was sagen die Parteien dazu?</mat-expansion-panel-header>
-        <mat-panel-description>
-          <ng-container *ngFor="let obj of thesis?.evaluation  | keyvalue">
-            <ng-container *ngIf="obj.value?.statement">
-              <b>{{ obj.key }}</b>
-              <pre>{{ obj.value.statement }}</pre>
+      <section class="card--additional">
+        <mat-expansion-panel *ngIf="thesis.description">
+          <mat-expansion-panel-header>Weitere Informationen</mat-expansion-panel-header>
+          <mat-panel-description>
+            <pre>{{ thesis.description }}</pre>
+          </mat-panel-description>
+        </mat-expansion-panel>
+        <mat-expansion-panel>
+          <mat-expansion-panel-header>Was sagen die Parteien dazu?</mat-expansion-panel-header>
+          <mat-panel-description>
+            <ng-container *ngFor="let obj of thesis?.evaluation  | keyvalue">
+              <ng-container *ngIf="obj.value?.statement">
+                <b>{{ obj.key }}</b>
+                <pre>{{ obj.value.statement }}</pre>
+              </ng-container>
             </ng-container>
-          </ng-container>
-        </mat-panel-description>
-      </mat-expansion-panel>
+          </mat-panel-description>
+        </mat-expansion-panel>
+      </section>
     </section>
     <section class="dots">
       <a [routerLink]="'/thesen/' + (i + 1)" class="dot" routerLinkActive="active"
