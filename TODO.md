@@ -1,4 +1,4 @@
-[ ] Don't show category, instead free space for a thesis with bigger text and for the link for "more info"
+[x] Don't show category, instead free space for a thesis with bigger text and for the link for "more info"
 [ ] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
 [ ] Links to original manifestos ("Wahlprogramme") on results page
 [ ] How to add links in FAQ section?
@@ -11,7 +11,7 @@
 [x] Fix horizontal padding/margin of card on mobile
 [ ] Add "more info" functionality including description text, evaluation and statement text of parties
 [ ] "back" button
-[ ] Prevent vertical jumping when switching to next card on desktop (min-height?)
+[x] Prevent vertical jumping when switching to next card on desktop (min-height?)
 [x] shorten button animation by half (make them more snappy)
 [ ] Larger cards for desktop to be able to position buttons next to each other?
 [ ] Image alt text for accessibility 
@@ -35,6 +35,6 @@
 [ ] Improve imports (@shared..etc)
 [x] Skip thesis
 [ ] Fix not clickable buttons
-[ ] Fix card height
+[x] Fix card height
 [ ] Add security headers
 [ ] Dark mode

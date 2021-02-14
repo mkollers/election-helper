@@ -15,7 +15,6 @@ export interface Faq {
 
 export interface Thesis {
     image: string;
-    category: string;
     thesis: string;
     description?: string;
     evaluation: {

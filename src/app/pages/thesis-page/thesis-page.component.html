@@ -4,7 +4,6 @@
       <section class="card--image">
         <img [src]="thesis.image" width="450" height="253">
       </section>
-      <h2 class="card--header">{{ thesis.category }} </h2>
       <pre class="card--content">{{ thesis.thesis }}</pre>
       <footer class="card--footer">
         <a class="skip" [routerLink]="'/thesen/' + (index + 1)">These überspringen
@@ -17,7 +16,7 @@
         <button class="btn" (click)="answer(index, 'neutral')">neutral</button>
         <button class="btn error" (click)="answer(index, 'disagree')">stimme nicht zu</button>
       </footer>
-      <mat-expansion-panel>
+      <mat-expansion-panel class="card--additional">
         <mat-expansion-panel-header>Was sagen die Parteien dazu?</mat-expansion-panel-header>
         <mat-panel-description>
           <ng-container *ngFor="let obj of thesis?.evaluation  | keyvalue">

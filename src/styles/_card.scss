@@ -10,7 +10,8 @@
     "image"
     "header"
     "content"
-    "footer";
+    "footer"
+    "additional";
   margin: auto;
   max-width: 450px;
   overflow: hidden;
@@ -29,7 +30,8 @@
 
   .card--content {
     grid-area: content;
-    margin: 20px 25px 20px;
+    margin: 0 25px;
+    min-height: 7rem;
   }
 
   .card--header {
@@ -45,5 +47,9 @@
     gap: 16px;
     grid-area: footer;
     margin: 0 25px 40px;
+  }
+
+  .card--additional {
+    grid-area: additional;
   }
 }
