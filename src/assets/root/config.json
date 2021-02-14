@@ -1,6 +1,6 @@
 {
   "logo": "/assets/logo.svg",
-  "welcome_text": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen.\n\nDer Eschomat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.",
+  "welcome_text": "Der Eschomat soll vor allem Jung- und Erstwähler*innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen.\n\nDer Eschomat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.",
   "parties": {
     "CDU": {
       "name": "Christlich Demokratische Union",
@@ -29,8 +29,11 @@
     "question": "Spricht der Eschomat Wahlempfehlungen aus?",
     "answer": "Nein, die Auswertung soll nur eine grobe Orientierung bieten und den Nutzer*Innen die Wahlprogramme der Parteien näher bringen.\n\nBei der Kommunalwahl kommt zudem durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzu, die sich nicht in solch einem Tool abbilden lässt."
   }, {
+    "question": "Wer sind wir und warum machen wir das?",
+    "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
+  }, {
     "question": "Kumulieren und Panaschieren - was ist das?",
-    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten."
+    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href='https://www.youtube.com/watch?v=gDEyqlw38aY' target='_blank' rel='noopener'>YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
   }, {
     "question": "Welche Daten speichert ihr?",
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
