@@ -4,13 +4,22 @@
 }
 
 .card {
-  gap: 0 10px;
+  gap: 0 25px;
   grid-template-rows: repeat(3, auto);
-  grid-template-columns: minmax(150px, 1fr) 2fr;
+  grid-template-columns: 160px 2fr;
   grid-template-areas:
     "image header"
     "image content"
     "footer footer";
+
+  .card--header {
+    margin: 0 25px 0 0;
+    line-height: 2.75rem;
+  }
+
+  .card--content {
+    margin: 0 25px 0 0;
+  }
 
   .card--image img {
     object-fit: contain;
@@ -41,4 +50,10 @@
       letter-spacing: 1px;
     }
   }
+}
+
+pre {
+  font-size: .875rem;
+  line-height: 1.5;
+  margin-top: 8px;
 }

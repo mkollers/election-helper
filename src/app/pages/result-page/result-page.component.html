@@ -4,6 +4,7 @@
   </section>
   <h2 class="card--header">{{ party.key }} </h2>
   <pre class="card--content">
+    {{ config.parties[party.key]?.description }}
   </pre>
   <footer class="card--footer">
     <mat-progress-bar [value]="100 / possible * (party.value || 0)"></mat-progress-bar>

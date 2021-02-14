@@ -3,41 +3,47 @@
   "welcome_text": "Der Eschomat soll vor allem Jung- und Erstwähler*innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen.\n\nDer Eschomat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.",
   "parties": {
     "CDU": {
+      "description": "Die CDU stützt sich auf christliche Werte und kombiniert eine marktwirtschaftliche Ausrichtung mit staatlichen Eingriffen.",
       "name": "Christlich Demokratische Union",
       "logo": "/assets/logos_parties/cdu.svg"
     },
     "Grüne": {
+      "description": "Die GRÜNEN orientieren sich an den Themen Umweltschutz, Bürger- und Menschenrechte, Gleichstellung sowie Demokratisierung der Gesellschaft.",
       "logo": "/assets/logos_parties/gruene.svg"
     },
     "SPD": {
+      "description": "Die SPD stützt sich auf die Grundwerte Freiheit, Gerechtigkeit und Solidarität.",
       "logo": "/assets/logos_parties/spd.svg"
     },
     "FDP": {
+      "description": "Die FDP bewertet Freiheit höher als Gleichheit. Sie setzt sich für Steuerentlastungen ein und spricht sich gegen eine anlasslose Überwachung aus.",
       "logo": "/assets/logos_parties/fdp.svg"
     },
     "FWE": {
+      "description": "Die Fraktion der FWE ist seit der Kommunalwahl 2011 im Stadtparlament. Bei dieser Wahl konnte die FWE aus dem Stand vier Sitze erreichen.",
       "logo": "/assets/logos_parties/fwe.svg"
     },
     "Linke": {
+      "description": "DIE LINKE tritt für einen demokratischen Sozialismus und einen umfassenden Ausbau des Sozialstaates ein.",
       "logo": "/assets/logos_parties/linke.svg"
     }
   },
   "faq": [{
     "question": "Was ist das Ziel des Eschomat?",
     "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen."
-    }, {
+  }, {
     "question": "Spricht der Eschomat Wahlempfehlungen aus?",
     "answer": "Nein, die Auswertung soll nur eine grobe Orientierung bieten und den Nutzer*Innen die Wahlprogramme der Parteien näher bringen.\n\nBei der Kommunalwahl kommt zudem durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzu, die sich nicht in solch einem Tool abbilden lässt."
-    }, {
+  }, {
     "question": "Wer sind wir und warum machen wir das?",
     "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
-    }, {
+  }, {
     "question": "Welche Bedeutung haben die Wahlprogramme für die Thesen",
     "answer": "Die Wahlprogramme sind die Basis für die im Eschomat verwendeten Thesen. Jedoch können wir nur einen Bruchteil der Informationen abbilden, die in den Wahlprogrammen erarbeitet wurden. Deshalb möchten wir alle Wähler*innen motivieren sich die Wahlprogramme der Parteien anzuschauen.\nLink zu den Wahlprogrammen: CDU, FDP, FWE, Grüne, Linke, SPD"
-    }, {
+  }, {
     "question": "Kumulieren und Panaschieren - was ist das?",
     "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href=\"https://www.youtube.com/watch?v=gDEyqlw38aY\" target=\"_blank\" rel=\"noopener\">YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
-    }, {
+  }, {
     "question": "Welche Daten speichert ihr?",
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
   }],

@@ -4,6 +4,7 @@ import { Answer } from './app/shared/helper/models/answer';
 export const CONFIG = new InjectionToken<Config>('CONFIG');
 
 export interface Party {
+    description: string;
     name: string;
     logo: string;
 };
