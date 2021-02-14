@@ -33,7 +33,7 @@
 [ ] Thesis preview
 [ ] Swipe thesis
 [ ] Improve imports (@shared..etc)
-[ ] Skip thesis
+[x] Skip thesis
 [ ] Fix not clickable buttons
 [ ] Fix card height
 [ ] Add security headers
