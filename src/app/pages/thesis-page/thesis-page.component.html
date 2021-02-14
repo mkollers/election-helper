@@ -20,7 +20,7 @@
         <mat-expansion-panel *ngIf="thesis.description">
           <mat-expansion-panel-header>Weitere Informationen</mat-expansion-panel-header>
           <mat-panel-description>
-            <pre>{{ thesis.description }}</pre>
+            <pre [innerHtml]="thesis.description | safe: 'html'"></pre>
           </mat-panel-description>
         </mat-expansion-panel>
         <mat-expansion-panel>
@@ -29,7 +29,7 @@
             <ng-container *ngFor="let obj of thesis?.evaluation  | keyvalue">
               <ng-container *ngIf="obj.value?.statement">
                 <b>{{ obj.key }}</b>
-                <pre>{{ obj.value.statement }}</pre>
+                <pre [innerHtml]="obj.value.statement | safe: 'html'"></pre>
               </ng-container>
             </ng-container>
           </mat-panel-description>
