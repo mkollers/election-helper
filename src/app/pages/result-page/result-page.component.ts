@@ -6,7 +6,7 @@ import { Answer } from 'src/app/shared/helper/models/answer';
 import { CONFIG, Config } from 'src/config';
 
 @Component({
-  selector: 'app-result-page',
+  selector: 'eschomat-result-page',
   templateUrl: './result-page.component.html',
   styleUrls: ['./result-page.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush

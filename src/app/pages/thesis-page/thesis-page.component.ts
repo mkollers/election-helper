@@ -7,7 +7,7 @@ import { Answer } from 'src/app/shared/helper/models/answer';
 import { CONFIG, Config, Thesis } from 'src/config';
 
 @Component({
-  selector: 'app-thesis-page',
+  selector: 'eschomat-thesis-page',
   templateUrl: './thesis-page.component.html',
   styleUrls: ['./thesis-page.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
@@ -19,7 +19,6 @@ export class ThesisPageComponent {
   constructor(
     @Inject(CONFIG) public config: Config,
     @Inject(INJECTOR) private _injector: Injector,
-    @Inject(PLATFORM_ID) private _platformId: string,
     private _router: Router,
     route: ActivatedRoute
   ) {

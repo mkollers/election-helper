@@ -1,16 +1,10 @@
-import { Component, OnInit, ChangeDetectionStrategy } from '@angular/core';
+import { ChangeDetectionStrategy, Component } from '@angular/core';
 
 @Component({
-  selector: 'app-privacy-page',
+  selector: 'eschomat-privacy-page',
   templateUrl: './privacy-page.component.html',
   styleUrls: ['./privacy-page.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush
 })
-export class PrivacyPageComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+export class PrivacyPageComponent {
 }

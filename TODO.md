@@ -27,7 +27,7 @@
 [ ] Optimize images
 [x] Netflify SPA Config
 [x] FAQ
-[ ] Change prefix to "eschomat"
+[x] Change prefix to "eschomat"
 [ ] Buttons auf desktop nebeneinander
 [x] Dots below thesis
 [ ] Thesis preview
