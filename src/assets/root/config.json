@@ -5,27 +5,33 @@
     "CDU": {
       "description": "Die CDU stützt sich auf christliche Werte und kombiniert eine marktwirtschaftliche Ausrichtung mit staatlichen Eingriffen.",
       "name": "Christlich Demokratische Union",
-      "logo": "/assets/logos_parties/cdu.svg"
+      "logo": "/assets/logos_parties/cdu.svg",
+      "manifesto": "https://cdueschborn.de/kommunalwahl2021-programm.html"
     },
     "Grüne": {
       "description": "Die GRÜNEN orientieren sich an den Themen Umweltschutz, Bürger- und Menschenrechte, Gleichstellung sowie Demokratisierung der Gesellschaft.",
-      "logo": "/assets/logos_parties/gruene.svg"
+      "logo": "/assets/logos_parties/gruene.svg",
+      "manifesto": "https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf"
     },
     "SPD": {
       "description": "Die SPD stützt sich auf die Grundwerte Freiheit, Gerechtigkeit und Solidarität.",
-      "logo": "/assets/logos_parties/spd.svg"
+      "logo": "/assets/logos_parties/spd.svg",
+      "manifesto": "https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf"
     },
     "FDP": {
       "description": "Die FDP bewertet Freiheit höher als Gleichheit. Sie setzt sich für Steuerentlastungen ein und spricht sich gegen eine anlasslose Überwachung aus.",
-      "logo": "/assets/logos_parties/fdp.svg"
+      "logo": "/assets/logos_parties/fdp.svg",
+      "manifesto": "https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf"
     },
     "FWE": {
       "description": "Die Fraktion der FWE ist seit der Kommunalwahl 2011 im Stadtparlament. Bei dieser Wahl konnte die FWE aus dem Stand vier Sitze erreichen.",
-      "logo": "/assets/logos_parties/fwe.svg"
+      "logo": "/assets/logos_parties/fwe.svg",
+      "manifesto": "https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf"
     },
     "Linke": {
       "description": "DIE LINKE tritt für einen demokratischen Sozialismus und einen umfassenden Ausbau des Sozialstaates ein.",
-      "logo": "/assets/logos_parties/linke.svg"
+      "logo": "/assets/logos_parties/linke.svg",
+      "manifesto": ""
     }
   },
   "faq": [{
