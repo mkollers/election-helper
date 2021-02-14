@@ -4,6 +4,16 @@
   grid-template-columns: auto;
 }
 
+.card h2.card--header {
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+
+  .count {
+    font-weight: 400;
+  }
+}
+
 .card--image {
   height: 253px;
 }
