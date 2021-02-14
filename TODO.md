@@ -1,3 +1,4 @@
+[ ] WebP integration
 [ ] Tool tips for dots
 [ ] Tool tip for mobile with "HTML Content"
 [x] Fix horizontal padding/margin of card on mobile
