@@ -31,5 +31,5 @@ export interface Config {
     welcome_text: string,
     parties: { [key: string]: Party };
     theses: Thesis[];
-    faq: Faq;
+    faq: Faq[];
 };
