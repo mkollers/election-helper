@@ -33,7 +33,7 @@
     "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
   }, {
     "question": "Kumulieren und Panaschieren - was ist das?",
-    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href='https://www.youtube.com/watch?v=gDEyqlw38aY' target='_blank' rel='noopener'>YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
+    "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href=\"https://www.youtube.com/watch?v=gDEyqlw38aY\" target=\"_blank\" rel=\"noopener\">YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
   }, {
     "question": "Welche Daten speichert ihr?",
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
@@ -73,7 +73,7 @@
     "image": "/assets/header/bahnhof_eschborn.jpg",
     "category": "Barrierefreie Bahnhöfe Eschborn Bhf / Niederhöchstadt",
     "thesis": "Die Bahnhöfe Eschborn und Niederhöchstadt sollen umfassend modernisiert und barrierefrei werden.",
-    "description": "",
+    "description": "Die beiden genannten Bahnhöfe sind im Gegensatz zum Bahnhof Eschborn Süd aktuell nicht barrierefrei.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -104,7 +104,7 @@
     "image": "/assets/header/feuerwehr_eschborn.jpg",
     "category": "Bebauung alte Feuerwache",
     "thesis": "Auf dem Gelände der alten Feuerwehr Eschborn soll eine Wohnanlage für Jung und Alt entstehen, d.h. inklusive U3-Betreuung und Seniorenwohnungen.",
-    "description": "",
+    "description": "Die alte Feuerwache befindet sich an der Unterortstraße unweit des Rathauses und wird seit dem Bau des Notfallzentrums nicht mehr benutzt.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -166,7 +166,7 @@
     "image": "/assets/header/platzhalter.jpg",
     "category": "Bürgerhaushalt",
     "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
-    "description": "",
+    "description": "Das Darmstädter Modell ermöglicht Bürger*innen online und offline den kommunalen Haushalt mitzugestalten.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -259,7 +259,7 @@
     "image": "/assets/header/fahrradweg_doernweg.jpg",
     "category": "Fahrradweg Dörnweg",
     "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
-    "description": "",
+    "description": "Der verlängerte Dörnweg ist ein Feldweg, der die beiden Stadtteile verbindet und neben Landwirten und Spaziergängern auch von Schüler*innen aus Niederhöchstadt als Radweg zur Heinrich von Kleist-Schule genutzt wird.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -290,7 +290,7 @@
     "image": "/assets/header/foerderung_frankfurt.jpg",
     "category": "Förderung von Kultur- und Sport in Frankfurt",
     "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
-    "description": "",
+    "description": "Eschborn fördert seit mehreren Jahren Frankfurter Institutionen und Inititativen. Dazu gehörenz.B. das Städel, das Filmmuseuum, die Oper Frankfurt und das Radrennen „Eschborn-Frankfurt - der Radklassiker“. Weitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/rathaus/kultur-und-sportfoerderung/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -321,7 +321,7 @@
     "image": "/assets/header/gewerbesteuer.jpg",
     "category": "Gewerbesteuer",
     "thesis": "Der Gewerbesteuerhebesatz soll gesenkt werden, um die Stadt attraktiver für Unternehmen werden zu lassen.",
-    "description": "",
+    "description": "Die Gewerbesteuer ist eine wichtige Einnahmequelle für Kommunen. Über den Hebesatz können Kommunen Einfluss auf die Höhe der Gewerbesteuer nehmen. Der aktuelle Gewerbesteuerhebesatz der Stadt Eschborn befindet sich bei 330. Der Schnitt im Main-Taunus-Kreis liegt bei 357,3. Der Satz der Stadt Frankfurt liegt bei 460. Weitere Informationen erhalten Sie im <a href=\"https://www.gewerbesteuer.de/gewerbesteuerhebesatz/darmstadt\" target=\"_blank\" rel=\"noopener\">Gewerbesteuer Infoportal</a>.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -383,7 +383,7 @@
     "image": "/assets/header/heinrich_graf_sportanlage.jpg",
     "category": "Heinrich-Graf-Sportanlage Modernisierung",
     "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
-    "description": "",
+    "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -445,7 +445,7 @@
     "image": "/assets/header/platzhalter.jpg",
     "category": "Hospiz",
     "thesis": "Die Stadt soll einem Trägerverein ein Gebäude für ein stationäres Hospiz bereitstellen oder neu errichten lassen.",
-    "description": "",
+    "description": "Aktuell gibt es in Eschborn ein ambulantes Hospiz vom „Lichtblick e.V.“. Die nächstgelegenen stationären Hospize befinden sich z.B. in Oberursel, Flörsheim am Main und Frankfurt. Die Zeitung <a href=\"https://www.fnp.de/lokales/main-taunus/eschborn-ort74774/begleitung-in-der-letzten-lebensphase-90106094.html\" target=\"_blank\" rel=\"noopener\">„Frankfurt Neue Presse“ berichtete</a>.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -475,7 +475,7 @@
   }, {
     "image": "/assets/header/hundesteuer.jpg",
     "category": "Hundesteuer",
-    "thesis": "Die 2019 neu eingeführte Hundesteuer soll grundsätzlich beibehalten werden.",
+    "thesis": "Die 2020 neu eingeführte Hundesteuer soll grundsätzlich beibehalten werden.",
     "description": "",
     "evaluation": {
       "CDU": {
@@ -507,7 +507,7 @@
     "image": "/assets/header/josefstadt_west.jpg",
     "category": "Josefstadt-West",
     "thesis": "Eschborn soll sich der Realisierung des Frankfurter Neubaugebiets, auch bekannt als \"Josefstadt-West\", widersetzen.",
-    "description": "",
+    "description": "Der Begriff „Josefstadt-West“ beschreibt eine städtebauliche Entwicklungsmaßnahme im Nordwesten Frankfurts, insbesondere die Planungen westlich der Autobahn A5. Weitere Informationen zu den Maßnahmen finden sich auf der <a href=\"https://stadtplanungsamt-frankfurt.de/frankfurt_nordwest_neuer_stadtteil_der_quartiere_18798.html\" target=\"_blank\" rel=\"noopener\">Website des Stadtplanungsamts Frankfurt</a>.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -600,7 +600,7 @@
     "image": "/assets/header/hanseatenviertel.jpg",
     "category": "Lärmschutzmaßnahmen für das Hanseatenviertel",
     "thesis": "Das Hanseatenviertel soll durch geeignete Lärmschutzmaßnahmen vor dem Verkehrslärm geschützt werden.",
-    "description": "",
+    "description": "Das Hanseatenviertel besteht aus der Hamburger Straße, Bremer Straße und Lübecker Straße und befindet sich unweit der Umgehungsstraße L3005.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -693,7 +693,7 @@
     "image": "/assets/header/regionaltangente_west.jpg",
     "category": "Regionaltangente West",
     "thesis": "Die Stadt Eschborn soll die Umsetzung der Regionaltangente West vorantreiben.",
-    "description": "",
+    "description": "Die Regionalttangente West ist eine  in Planung befindliche Bahnstrecke die Eschborn z.B. mit dem Flughafen und Bad Homburg vernetzt und drei Haltestellen in Eschborn vorsieht.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -879,7 +879,7 @@
     "image": "/assets/header/platzhalter.jpg",
     "category": "Städtepartnerschaften",
     "thesis": "Bestehende Städtepartnerschaften soll gestärkt werden und es soll nach neuen Partnerschaften gesucht werden.",
-    "description": "",
+    "description": "Derzeit hat die Stadt Eschborn drei Städtepartnerschaften in verschiedenen Ländern Europas.",
     "evaluation": {
       "CDU": {
         "position": "neutral",
@@ -972,7 +972,7 @@
     "image": "/assets/header/hauptstrasse_niederhoechstadt.jpg",
     "category": "Verkehrsberuhigung Hauptstraße Niederhöchstadt ",
     "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
-    "description": "",
+    "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.",
     "evaluation": {
       "CDU": {
         "position": "neutral",

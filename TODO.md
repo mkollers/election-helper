@@ -1,3 +1,4 @@
+[ ] How to add links in FAQ section?
 [ ] WebP integration
 [ ] Tool tips for dots
 [ ] Tool tip for mobile with "HTML Content"
@@ -7,6 +8,7 @@
 [ ] Prevent vertical jumping when switching to next card on desktop (min-height?)
 [x] shorten button animation by half (make them more snappy)
 [ ] Larger cards for desktop to be able to position buttons next to each other?
+[ ] Image alt text for accessibility 
 [x] Theses
 [x] Results
 [x] Standard metadata (favicon, title, description...)
