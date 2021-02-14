@@ -96,7 +96,7 @@
   text-decoration: none;
   text-transform: uppercase;
   transform-style: preserve-3d;
-  transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), background 150ms cubic-bezier(0, 0, 0.58, 1);
+  transition: transform 75ms cubic-bezier(0, 0, 0.58, 1), background 75ms cubic-bezier(0, 0, 0.58, 1);
   vertical-align: middle;
 
   &::before {
@@ -112,7 +112,7 @@
     border-radius: inherit;
     box-shadow: 0 0 0 2px #4d4d4d, 0 0.625em 0 0 #eaeaea;
     transform: translate3d(0, 0.5em, -1em);
-    transition: transform 150ms cubic-bezier(0, 0, 0.58, 1), box-shadow 150ms cubic-bezier(0, 0, 0.58, 1);
+    transition: transform 75ms cubic-bezier(0, 0, 0.58, 1), box-shadow 75ms cubic-bezier(0, 0, 0.58, 1);
   }
 
   &:hover {
