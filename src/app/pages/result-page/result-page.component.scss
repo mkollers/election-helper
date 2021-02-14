@@ -6,7 +6,7 @@
 .card {
   gap: 0 10px;
   grid-template-rows: repeat(3, auto);
-  grid-template-columns: minmax(220px, 1fr) 2fr;
+  grid-template-columns: minmax(150px, 1fr) 2fr;
   grid-template-areas:
     "image header"
     "image content"
