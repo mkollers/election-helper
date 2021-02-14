@@ -1,7 +1,8 @@
 [x] Don't show category, instead free space for a thesis with bigger text and for the link for "more info"
 [ ] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
-[ ] Links to original manifestos ("Wahlprogramme") on results page
-[ ] How to add links in FAQ section?
+[ ] !!! Links to original manifestos ("Wahlprogramme") on results page
+[ ] !!! Order statemenets by position
+[x] How to add links in FAQ section?
 [ ] Finalize header images @ecki
 [ ] Finalize descriptions @ecki
 [ ] Finalize intro text @ecki
@@ -9,7 +10,7 @@
 [ ] Tool tips for dots
 [ ] Tool tip for mobile with "HTML Content"
 [x] Fix horizontal padding/margin of card on mobile
-[ ] Add "more info" functionality including description text, evaluation and statement text of parties
+[x] Add "more info" functionality including description text, evaluation and statement text of parties
 [ ] "back" button
 [x] Prevent vertical jumping when switching to next card on desktop (min-height?)
 [x] shorten button animation by half (make them more snappy)
