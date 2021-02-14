@@ -4,6 +4,7 @@
       <section class="card--image">
         <img [src]="thesis.image" width="450" height="253">
       </section>
+      <h2 class="card--header"><span class="count">{{ index }}/{{ config.theses.length }}</span> {{ thesis.category }}</h2>
       <pre class="card--content">{{ thesis.thesis }}</pre>
       <footer class="card--footer">
         <a class="skip" [routerLink]="'/thesen/' + (index + 1)">These überspringen
