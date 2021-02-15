@@ -1,6 +1,6 @@
 {
   "logo": "/assets/logo.svg",
-  "welcome_text": "Der Eschomat soll vor allem Jung- und Erstwähler*innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen.\n\nDer Eschomat ist keine Wahlempfehlung, sondern ein Informationsangebot über Wahlen und Politik.",
+  "welcome_text": "<p><strong>Herzlich willkommen beim Eschomat! 👋 </strong></p><p>Wir möchten dir und allen Bürger*innen Eschborns, insbesondere den Jung- und Erstwähler*innen, eine Anlaufstelle für die Kommunalwahl am 14. März 2021 bieten.</p><p>Verschaffe dir mit dem Eschomat in wenigen Minuten einen  Eindruck, welche Parteien deine Interessen vertreten.</p><p>Anschließend empfehlen wir dir einen Blick in <a href=\"faq\" target=\"_blank\" rel=\"noopener\">die Wahlprogramme 📚 der Parteien</a> zu werfen, weil der Eschomat natürlich nicht allen Ideen der Parteien gerecht werden kann.</p><p>Aber nun erstmal viel Spaß mit dem Eschomat! 👍</p>",
   "parties": {
     "CDU": {
       "description": "Die CDU stützt sich auf christliche Werte und kombiniert eine marktwirtschaftliche Ausrichtung mit staatlichen Eingriffen.",
@@ -31,26 +31,29 @@
     "Linke": {
       "description": "DIE LINKE tritt für einen demokratischen Sozialismus und einen umfassenden Ausbau des Sozialstaates ein.",
       "logo": "/assets/logos_parties/linke.svg",
-      "manifesto": "/assets/logos_parties/Die_Linke_Wahlprogramm_2021_Eschborn.pdf"
+      "manifesto": "/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf"
     }
   },
   "faq": [{
     "question": "Was ist das Ziel des Eschomat?",
-    "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Zudem soll er im besten Falle das Interesse an den Kommunalwahlen erhöhen."
+    "answer": "Der Eschomat soll vor allem Jung- und Erstwähler*Innen eine Orientierung bei den anstehenden Wahlen bieten und die Inhalte der Wahlprogramme näher bringen. Wenn er dann noch das Interesse an den Kommunalwahlen erhöht, sind wir sehr glücklich."
   }, {
-    "question": "Spricht der Eschomat Wahlempfehlungen aus?",
-    "answer": "Nein, die Auswertung soll nur eine grobe Orientierung bieten und den Nutzer*Innen die Wahlprogramme der Parteien näher bringen.\n\nBei der Kommunalwahl kommt zudem durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzu, die sich nicht in solch einem Tool abbilden lässt."
-  }, {
-    "question": "Wer sind wir und warum machen wir das?",
+    "question": "Wer seid ihr und warum macht ihr das?",
     "answer": "Das Projekt wird von Stefan Eckner und Markus Kollers umgesetzt. Wir sind in Eschborn groß geworden und sowohl privat als auch beruflich begeistert von der digitalen Welt. Unser Antrieb ist unsere Heimatstadt digitaler aufzustellen und das Interesse für die Kommunalwahlen zu stärken."
   }, {
-    "question": "Welche Bedeutung haben die Wahlprogramme für die Thesen",
-    "answer": "Die Wahlprogramme sind die Basis für die im Eschomat verwendeten Thesen. Jedoch können wir nur einen Bruchteil der Informationen abbilden, die in den Wahlprogrammen erarbeitet wurden. Deshalb möchten wir alle Wähler*innen motivieren sich die Wahlprogramme der Parteien anzuschauen.\nLink zu den Wahlprogrammen: CDU, FDP, FWE, Grüne, Linke, SPD"
+    "question": "Soll ich mich bei der Wahl am Eschomat orientieren?",
+    "answer": "Nein, bitte nicht. Dein Ergebnis beim Eschomat wird sicherlich Tendenzen aufzeigen, aber wir empfehlen dir einen Blick in die Wahlprogramme der Parteien zu werfen. Schließlich kann der Eschomat mit seinen Thesen nur einen Bruchteil der politischen Ideen abdecken. Zudem solltest du daran denken, dass bei der Kommunalwahl durch das Kumulieren und Panaschieren mit der Personalwahl eine persönliche Ebene hinzukommt, die der Eschomat nicht ansatzweise abbilden kann."
+  }, {
+    "question": "Wo finde ich die Wahlprogramme?",
+    "answer": "Natürlich hier bei uns. 👉 <a href=\"https://cdueschborn.de/kommunalwahl2021-programm.html\" target=\"_blank\" rel=\"noopener\">CDU</a>, <a href=\"https://fdp-eschborn.de/wp-content/uploads/2021/02/Wahlprogramm-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">FDP</a>, <a href=\"https://fweschborn.de/wp-content/uploads/2021/01/wahlprogramm-fwe-2021-2.pdf\" target=\"_blank\" rel=\"noopener\">FWE</a>, <a href=\"https://www.grueneeschborn.de/wp-content/uploads/2020/12/Programm_Eschborn-2021-2026.pdf\" target=\"_blank\" rel=\"noopener\">Grüne</a>, <a href=\"/assets/manifestos/Die_Linke_Wahlprogramm_2021_Eschborn.pdf\" target=\"_blank\" rel=\"noopener\">Linke</a>, <a href=\"https://www.spd-eschborn.de/wp-content/uploads/sites/1032/2021/01/21-03-14-spd-eschborn-wahlprogramm-web.pdf\" target=\"_blank\" rel=\"noopener\">SPD</a> (alphabetisch sortiert)."
+  }, {
+    "question": "Ich kenne mich nicht so gut in Eschborn aus. Wo befinden sich die besprochen Themen?",
+    "answer": "Für diesen Zweck haben wir <a href=\"https://www.google.com/maps/d/u/2/edit?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&usp=sharing\" target=\"_blank\" rel=\"noopener\">eine Karte 🗺️ erstellt</a>, auf der die prägnantesten Orte des Eschomat festgehalten sind."
   }, {
     "question": "Kumulieren und Panaschieren - was ist das?",
     "answer": "Wer das erste Mal den Wahlzettel sieht, wird wohl etwas verwundert sein. Schließlich geht es hier nicht nur darum ein Kreuz zu setzen, um eine Partei oder eine Person zu wählen, sondern es bieten sich eine Vielzahl an Möglichkeiten. Dieses <a href=\"https://www.youtube.com/watch?v=gDEyqlw38aY\" target=\"_blank\" rel=\"noopener\">YouTube-Video der Regierung Hessen</a> erklärt in rund drei Minuten die Grundlagen."
   }, {
-    "question": "Welche Daten speichert ihr?",
+    "question": "Welche Daten speichert ihr von mir?",
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
   }],
   "theses": [{
@@ -119,7 +122,7 @@
     "image": "/assets/header/feuerwehr_eschborn.jpg",
     "category": "Bebauung alte Feuerwache",
     "thesis": "Auf dem Gelände der alten Feuerwehr Eschborn soll eine Wohnanlage für Jung und Alt entstehen, d.h. inklusive U3-Betreuung und Seniorenwohnungen.",
-    "description": "Die alte Feuerwache befindet sich an der Unterortstraße unweit des Rathauses und wird seit dem Bau des Notfallzentrums nicht mehr benutzt.",
+    "description": "Die alte Feuerwache befindet sich an der Unterortstraße unweit des Rathauses und wird seit dem Bau des Notfallzentrums nicht mehr benutzt.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.13935740765784%2C8.573840311107626&z=19\" target=\"_blank\" rel=\"noopener\">Standort der alten Feuerwache</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -150,7 +153,7 @@
     "image": "/assets/header/bezahlbarer_wohnraum.jpg",
     "category": "Bezahlbarer Wohnraum / Sozialwohnungen",
     "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
-    "description": "",
+    "description": "Es geht in dieser nicht ausschließlich um den Bau von Sozialwohnungen, sondern zusätzlich bezahlbaren Wohnraum für Menschen zu schaffen die keinen Anspruch auf eine Sozialwohnung haben.",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -274,7 +277,7 @@
     "image": "/assets/header/fahrradweg_doernweg.jpg",
     "category": "Fahrradweg Dörnweg",
     "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
-    "description": "Der verlängerte Dörnweg ist ein Feldweg, der die beiden Stadtteile verbindet und neben Landwirten und Spaziergängern auch von Schüler*innen aus Niederhöchstadt als Radweg zur Heinrich von Kleist-Schule genutzt wird.",
+    "description": "Der verlängerte Dörnweg ist ein Feldweg, der die beiden Stadtteile verbindet und neben Landwirten und Spaziergängern auch von Schüler*innen aus Niederhöchstadt als Radweg zur Heinrich von Kleist-Schule genutzt wird.\n🗺️ <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15270360584071%2C8.563704718674158&z=16\" target=\"_blank\" rel=\"noopener\">Standort des verlängerten Dörnwegs zwischen Eschborn und Niederhöchstadt</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -398,7 +401,7 @@
     "image": "/assets/header/heinrich_graf_sportanlage.jpg",
     "category": "Heinrich-Graf-Sportanlage Modernisierung",
     "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
-    "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.",
+    "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.\nZur Diskussion stehen sowohl die Modernisierung des bisherigen Standorts, als auch eine Verlegung Richtung Arboretum.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14007633646152%2C8.561395770250021&z=18\" target=\"_blank\" rel=\"noopener\">Link zur Karte</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -429,7 +432,7 @@
     "image": "/assets/header/hofreite_niederhoechstadt.jpg",
     "category": "Hofreite",
     "thesis": "Die Hofreite in Niederhöchstadt soll genutzt werden, um die U3- und Ü3-Betreuung langfristig sicherzustellen.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.158784431959994%2C8.545776676050618&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Hofreite</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -522,7 +525,7 @@
     "image": "/assets/header/josefstadt_west.jpg",
     "category": "Josefstadt-West",
     "thesis": "Eschborn soll sich der Realisierung des Frankfurter Neubaugebiets, auch bekannt als \"Josefstadt-West\", widersetzen.",
-    "description": "Der Begriff „Josefstadt-West“ beschreibt eine städtebauliche Entwicklungsmaßnahme im Nordwesten Frankfurts, insbesondere die Planungen westlich der Autobahn A5. Weitere Informationen zu den Maßnahmen finden sich auf der <a href=\"https://stadtplanungsamt-frankfurt.de/frankfurt_nordwest_neuer_stadtteil_der_quartiere_18798.html\" target=\"_blank\" rel=\"noopener\">Website des Stadtplanungsamts Frankfurt</a>.",
+    "description": "Der Begriff „Josefstadt-West“ beschreibt eine städtebauliche Entwicklungsmaßnahme im Nordwesten Frankfurts, insbesondere die Planungen westlich der Autobahn A5. Weitere Informationen zu den Maßnahmen finden sich auf der <a href=\"https://stadtplanungsamt-frankfurt.de/frankfurt_nordwest_neuer_stadtteil_der_quartiere_18798.html\" target=\"_blank\" rel=\"noopener\">Website des Stadtplanungsamts Frankfurt</a>.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.1553507988878%2C8.620535719248839&z=14\" target=\"_blank\" rel=\"noopener\"> Link zur Karte</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -552,7 +555,7 @@
   }, {
     "image": "/assets/header/klimaneutrale_stadt.jpg",
     "category": "Klimaneutrale Stadt Eschborn",
-    "thesis": "Die Stadt Eschborn soll in den nächsten Jahren klimaneutral werden.",
+    "thesis": "Die Stadtverwaltung soll in den nächsten Jahren klimaneutral werden.",
     "description": "",
     "evaluation": {
       "CDU": {
@@ -615,7 +618,7 @@
     "image": "/assets/header/hanseatenviertel.jpg",
     "category": "Lärmschutzmaßnahmen für das Hanseatenviertel",
     "thesis": "Das Hanseatenviertel soll durch geeignete Lärmschutzmaßnahmen vor dem Verkehrslärm geschützt werden.",
-    "description": "Das Hanseatenviertel besteht aus der Hamburger Straße, Bremer Straße und Lübecker Straße und befindet sich unweit der Umgehungsstraße L3005.",
+    "description": "Das Hanseatenviertel besteht aus der Hamburger Straße, Bremer Straße und Lübecker Straße und befindet sich unweit der Umgehungsstraße L3005.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.136923867567795%2C8.569550561072633&z=18\" target=\"_blank\" rel=\"noopener\">Angrenzende Umgehungsstraße L3005 am Hanseatenviertel</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -646,7 +649,7 @@
     "image": "/assets/header/mobilfunkturm_niederhoechstadt.jpg",
     "category": "Mobilfunkturm Niederhöchstadt",
     "thesis": "Der Mobilfunkturm in Niederhöchstadt soll schnellstmöglich außer Betrieb genommen werden.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.165091419754866%2C8.543711047786422&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Mobilfunkturms</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -739,7 +742,7 @@
     "image": "/assets/header/wiesenbad_eschborn.jpg",
     "category": "Schwimmbad",
     "thesis": "Kinder aus Eschborn sollen das Wiesenbad kostenlos nutzen können, um perspektivisch dem steigenden Anteil an Nichtschwimmern entgegenzuwirken.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14870942965859%2C8.558120261554944&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Wiesenbad</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -894,7 +897,7 @@
     "image": "/assets/header/staedtepartnerschaften.jpg",
     "category": "Städtepartnerschaften",
     "thesis": "Bestehende Städtepartnerschaften sollen gestärkt werden und es soll nach neuen Partnerschaften gesucht werden.",
-    "description": "Derzeit hat die Stadt Eschborn drei Städtepartnerschaften in verschiedenen Ländern Europas.",
+    "description": "Derzeit hat die Stadt Eschborn drei Städtepartnerschaften in verschiedenen Ländern Europas. Details erfährst du auf der 🌐 <a href=\"https://www.eschborn.de/stadt-kultur-und-tourismusinformationen/staedtepartnerschaften/\" target=\"_blank\" rel=\"noopener\">Website der Stadtverwaltung</a>.",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -956,7 +959,7 @@
     "image": "/assets/header/sued_ost_verbindung.jpg",
     "category": "Süd-Ost-Verbindung",
     "thesis": "Die Planung der Süd-Ost-Verbindung soll gestoppt werden.",
-    "description": "",
+    "description": "Seit vielen Jahren werden verschiedene Varianten einer Straßenverbindung zwischen den Gewerbegebieten Süd und Ost diskutiert.\n📄 <a href=\"https://www.eschborn.de/fileadmin/eschborn/Bilder/Rathaus/Bauprojekte/verbindung_gewerbegebiete/15-04-14__PR_Verbindungsstrasse_Sued_Ost_Sachstand.pdf\" target=\"_blank\" rel=\"noopener\">Sachstandsbericht aus dem Jahr 2015</a>\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.13662525375974%2C8.575445653459317&z=18\" target=\"_blank\" rel=\"noopener\">Standort der geplanten Verbindung</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -987,7 +990,7 @@
     "image": "/assets/header/hauptstrasse_niederhoechstadt.jpg",
     "category": "Verkehrsberuhigung Hauptstraße Niederhöchstadt ",
     "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
-    "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.",
+    "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15748537751381%2C8.546946946224464&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Straßenabschnitts</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -1049,7 +1052,7 @@
     "image": "/assets/header/feuerwehr_niederhoechstadt.jpg",
     "category": "Feuerwehr Niederhöchstadt Ausbau",
     "thesis": "Die Feuerwehr Niederhöchstadt soll einen Anbau erhalten, um ihren Platzbedarf decken zu können.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.16157360332198%2C8.54513687246179&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Feuerwache in Niederhöchstadt</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -1079,8 +1082,8 @@
   }, {
     "image": "/assets/header/musikschule_niederhoechstadt.jpg",
     "category": "Musikschule in Niederhöchstadt",
-    "thesis": "Für die Musikschule in Niederhöchstadt soll es einen Neubau geben.",
-    "description": "",
+    "thesis": "Für die Musikschule Taunus in Niederhöchstadt soll es einen Neubau in Eschborn oder Niederhöchstadt geben.",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15581218993414%2C8.54896944976475&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Hauptgebäudes der Musikschule Taunus</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -1111,7 +1114,7 @@
     "image": "/assets/header/neubaugebiet_doernweg.jpg",
     "category": "Neubaugebiet Dörnweg",
     "thesis": "Im Dörnweg nahe der Heinrich von Kleist-Schule soll die Umsetzung eines Neubaugebiets vorangetrieben werden.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15023843605663%2C8.568259410717042&z=17\" target=\"_blank\" rel=\"noopener\">Standort eines potenziellen Neubaugebiets am Dörnweg</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
@@ -1204,7 +1207,7 @@
     "image": "/assets/header/stadthalle.jpg",
     "category": "Stadthalle",
     "thesis": "Der Neubau der Stadthalle soll weiterhin Teil des Rathauses sein und sich in Stil und Größe an den Rathausplatz einfügen.",
-    "description": "",
+    "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14065193232662%2C8.573922407157584&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Stadthalle</a>",
     "evaluation": {
       "CDU": {
         "position": "disagree",
