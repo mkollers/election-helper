@@ -31,17 +31,17 @@ export class ResultPageComponent implements OnInit {
     const storage = this._injector.get(STORAGE);
     const result: { [party: string]: number } = this._initResult();
 
-    for (let i = 0; i < this.config.theses.length; i++) {
-      const thesis = this.config.theses[i];
+    for (let i = 1; i <= this.config.theses.length; i++) {
+      const thesis = this.config.theses[i - 1];
       const answer = storage.getItem(i.toString());
 
       if (answer != Answer.SKIP && answer != null) this.possible += 2;
 
       for (const party in this.config.parties) {
         const position = thesis.evaluation[party];
-
         result[party] += CalculationGrid[answer || 'skip'][position.position];
       }
+      console.log(result['Grüne'], i)
     }
 
     this.result = result;
