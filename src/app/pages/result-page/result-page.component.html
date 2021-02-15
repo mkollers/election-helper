@@ -1,6 +1,6 @@
-<h1>Ihr Eschomat-Ergebnis</h1>
+<h1>Dein Eschomat-Ergebnis</h1>
 <pre>
-  Hohe Übereinstimmungen Ihrer Antworten mit mehreren Parteien bedeuten nicht zwangsläufig eine inhaltliche Nähe dieser Parteien zueinander.
+  Wir freuen uns, dass du den Eschomat genutzt hast. 🥳 Hohe Übereinstimmungen deiner Antworten mit mehreren Parteien bedeuten nicht zwangsläufig eine inhaltliche Nähe dieser Parteien zueinander. Wir empfehlen dir die verlinkten Wahlprogramme anzuschauen, bevor du eine finale Wahlentscheidung triffst.
 </pre>
 <section class="card" *ngFor="let party of result | keyvalue | sortBy: 'value':'desc'" [class]="party.key">
   <section class="card--image" *ngIf="config.parties[party.key]?.logo">
