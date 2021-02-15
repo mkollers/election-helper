@@ -7,6 +7,7 @@ export interface Party {
     description: string;
     name: string;
     logo: string;
+    manifesto: string;
 };
 
 export interface Faq {
