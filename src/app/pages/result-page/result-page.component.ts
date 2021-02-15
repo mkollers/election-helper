@@ -41,7 +41,6 @@ export class ResultPageComponent implements OnInit {
         const position = thesis.evaluation[party];
         result[party] += CalculationGrid[answer || 'skip'][position.position];
       }
-      console.log(result['Grüne'], i)
     }
 
     this.result = result;
