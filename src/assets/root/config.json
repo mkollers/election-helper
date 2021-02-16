@@ -89,7 +89,7 @@
     }
   }, {
     "image": "/assets/header/bahnhof_eschborn.jpg",
-    "category": "Barrierefreie Bahnhöfe Eschborn Bhf / Niederhöchstadt",
+    "category": "Barrierefreie Bahnhöfe",
     "thesis": "Die Bahnhöfe Eschborn und Niederhöchstadt sollen umfassend modernisiert und barrierefrei werden.",
     "description": "Die beiden genannten Bahnhöfe sind im Gegensatz zum Bahnhof Eschborn Süd aktuell nicht barrierefrei.",
     "evaluation": {
@@ -151,7 +151,7 @@
     }
   }, {
     "image": "/assets/header/bezahlbarer_wohnraum.jpg",
-    "category": "Bezahlbarer Wohnraum / Sozialwohnungen",
+    "category": "Bezahlbarer Wohnraum",
     "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
     "description": "Es geht in dieser nicht ausschließlich um den Bau von Sozialwohnungen, sondern zusätzlich bezahlbaren Wohnraum für Menschen zu schaffen die keinen Anspruch auf eine Sozialwohnung haben.",
     "evaluation": {
@@ -306,7 +306,7 @@
     }
   }, {
     "image": "/assets/header/foerderung_frankfurt.jpg",
-    "category": "Förderung von Kultur- und Sport in Frankfurt",
+    "category": "Förderung Frankfurter Einrichtungen",
     "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
     "description": "Eschborn fördert seit mehreren Jahren Frankfurter Institutionen und Inititativen. Dazu gehörenz.B. das Städel, das Filmmuseuum, die Oper Frankfurt und das Radrennen „Eschborn-Frankfurt - der Radklassiker“. Weitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/rathaus/kultur-und-sportfoerderung/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
     "evaluation": {
@@ -368,7 +368,7 @@
     }
   }, {
     "image": "/assets/header/gruenderstadt.jpg",
-    "category": "Gründerstadt Eschborn",
+    "category": "Gründerstadt",
     "thesis": "Die Stadt Eschborn soll eine \"Gründerstadt\" werden, indem sie Startups unterstützt, z.B. durch entsprechende Räumlichkeiten oder Beratungsangebote.",
     "description": "",
     "evaluation": {
@@ -399,7 +399,7 @@
     }
   }, {
     "image": "/assets/header/heinrich_graf_sportanlage.jpg",
-    "category": "Heinrich-Graf-Sportanlage Modernisierung",
+    "category": "Heinrich-Graf-Sportanlage",
     "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
     "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.\nZur Diskussion stehen sowohl die Modernisierung des bisherigen Standorts, als auch eine Verlegung Richtung Arboretum.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14007633646152%2C8.561395770250021&z=18\" target=\"_blank\" rel=\"noopener\">Link zur Karte</a>",
     "evaluation": {
@@ -554,7 +554,7 @@
     }
   }, {
     "image": "/assets/header/klimaneutrale_stadt.jpg",
-    "category": "Klimaneutrale Stadt Eschborn",
+    "category": "Klimaneutrale Stadt",
     "thesis": "Die Stadtverwaltung soll in den nächsten Jahren klimaneutral werden.",
     "description": "",
     "evaluation": {
@@ -616,7 +616,7 @@
     }
   }, {
     "image": "/assets/header/hanseatenviertel.jpg",
-    "category": "Lärmschutzmaßnahmen für das Hanseatenviertel",
+    "category": "Lärmschutzmaßnahmen für Hanseatenviertel",
     "thesis": "Das Hanseatenviertel soll durch geeignete Lärmschutzmaßnahmen vor dem Verkehrslärm geschützt werden.",
     "description": "Das Hanseatenviertel besteht aus der Hamburger Straße, Bremer Straße und Lübecker Straße und befindet sich unweit der Umgehungsstraße L3005.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.136923867567795%2C8.569550561072633&z=18\" target=\"_blank\" rel=\"noopener\">Angrenzende Umgehungsstraße L3005 am Hanseatenviertel</a>",
     "evaluation": {
@@ -771,7 +771,7 @@
     }
   }, {
     "image": "/assets/header/sicherheitskameras.jpg",
-    "category": "Sicherheitskameras / Videoüberwachung",
+    "category": "Sicherheitskameras",
     "thesis": "Um das Sicherheitsgefühl zu stärken und eventuelle Straftaten zu verhindern soll die Installation von Sicherheitskameras an ausgewählt Orten in Erwägung gezogen werden.",
     "description": "",
     "evaluation": {
@@ -864,7 +864,7 @@
     }
   }, {
     "image": "/assets/header/gewerbegebiete_beleben.jpg",
-    "category": "Stadtzentrum und Wohnraum in Eschborn Süd",
+    "category": "Wohnraum in Gewerbegebieten",
     "thesis": "Die Gewerbegebiete sollen Teil des Stadtlebens werden, indem dort Wohnflächen geschaffen werden.",
     "description": "",
     "evaluation": {
@@ -926,7 +926,7 @@
     }
   }, {
     "image": "/assets/header/photovoltaik.jpg",
-    "category": "Subventionierung von Photovoltaik-Anlagen für Bürger",
+    "category": "Photovoltaik-Forderung",
     "thesis": "Die Stadt Eschborn soll den Ausbau von privaten Photovoltaikanlagen finanziell fördern.",
     "description": "",
     "evaluation": {
@@ -988,7 +988,7 @@
     }
   }, {
     "image": "/assets/header/hauptstrasse_niederhoechstadt.jpg",
-    "category": "Verkehrsberuhigung Hauptstraße Niederhöchstadt ",
+    "category": "Verkehrsberuhigung der Hauptstraße ",
     "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
     "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15748537751381%2C8.546946946224464&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Straßenabschnitts</a>",
     "evaluation": {
@@ -1050,7 +1050,7 @@
     }
   }, {
     "image": "/assets/header/feuerwehr_niederhoechstadt.jpg",
-    "category": "Feuerwehr Niederhöchstadt Ausbau",
+    "category": "Feuerwehr Niederhöchstadt",
     "thesis": "Die Feuerwehr Niederhöchstadt soll einen Anbau erhalten, um ihren Platzbedarf decken zu können.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.16157360332198%2C8.54513687246179&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Feuerwache in Niederhöchstadt</a>",
     "evaluation": {
@@ -1174,7 +1174,7 @@
     }
   }, {
     "image": "/assets/header/psychologische_betreuung.jpg",
-    "category": "Psychologische Betreuung für Jugendliche",
+    "category": "Psychologische Betreuung",
     "thesis": "Die Stadt Eschborn soll ein psychologisches Betreuungsangebot für Kinder und Jugendliche schaffen.",
     "description": "",
     "evaluation": {
