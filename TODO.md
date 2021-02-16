@@ -1,8 +1,8 @@
 Prio:  
 - [ ] [BUG] Last "skip thesis" does not link to results  
 - [ ] PDF Download der Thesen mit Begründung
-- [ ] Statemenet Matrix on the result page
-- [ ] Order statemenets by position
+- [ ] Statement Matrix on the result page
+- [ ] Order statements by position
 
 UX:
 - [ ] Avoid flapping because of multiline categories
@@ -13,12 +13,12 @@ UX:
 Content:
 - [ ] Add "CDU"
 - [ ] Add "SPD"
-- [ ] Finalize header images @ecki
+- [x] Finalize header images @ecki
 - [ ] Finalize descriptions @ecki
 - [ ] Finalize intro text @ecki
 
 Others:
-- [ ] Links are not visible as links in FAQ. Maybe add underline and change color.
+- [x] Links are not visible as links in FAQ. Maybe add underline and change color.
 - [x] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
 - [ ] WebP integration
 - [ ] "back" button
