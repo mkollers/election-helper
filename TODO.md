@@ -17,7 +17,7 @@ Content:
 
 Others:
 - [ ] Links are not visible as links in FAQ. Maybe add underline and change color.
-- [ ] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
+- [x] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
 - [ ] WebP integration
 - [ ] "back" button
 - [ ] Image alt text for accessibility 
