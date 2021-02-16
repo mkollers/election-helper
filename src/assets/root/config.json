@@ -57,7 +57,10 @@
     "answer": "Das Thema Datenschutz liegt uns wirklich am Herzen, und daher war es uns wichtig so wenige Daten zu erfassen wie irgendwie möglich. Alle Nutzereingaben werden prinzipiell nur lokal gespeichert, das heißt wir erfahren nicht, welche Angaben die Nutzer*innen machen. Nach einmaligen Laden könnte die Anwendung zu 100% offline verwendet werden.\n\n"
   }],
   "theses": [{
-    "image": "/assets/header/5g.jpg",
+    "image": {
+      "desktop": "/assets/header/5g_desktop.jpg",
+      "mobile": "/assets/header/5g_mobile.jpg"
+    },
     "category": "5G Ausbau",
     "thesis": "Die Eschborner Politik soll sich um einen schnellen Ausbau des 5G-Netzes in Eschborn bemühen.",
     "description": "",
@@ -88,7 +91,10 @@
       }
     }
   }, {
-    "image": "/assets/header/bahnhof_eschborn.jpg",
+    "image": {
+      "desktop": "/assets/header/bahnhof_eschborn_desktop.jpg",
+      "mobile": "/assets/header/bahnhof_eschborn_mobile.jpg"
+    },
     "category": "Barrierefreie Bahnhöfe",
     "thesis": "Die Bahnhöfe Eschborn und Niederhöchstadt sollen umfassend modernisiert und barrierefrei werden.",
     "description": "Die beiden genannten Bahnhöfe sind im Gegensatz zum Bahnhof Eschborn Süd aktuell nicht barrierefrei.",
@@ -119,7 +125,10 @@
       }
     }
   }, {
-    "image": "/assets/header/feuerwehr_eschborn.jpg",
+    "image": {
+      "desktop": "/assets/header/feuerwehr_eschborn_desktop.jpg",
+      "mobile": "/assets/header/feuerwehr_eschborn_mobile.jpg"
+    },
     "category": "Bebauung alte Feuerwache",
     "thesis": "Auf dem Gelände der alten Feuerwehr Eschborn soll eine Wohnanlage für Jung und Alt entstehen, d.h. inklusive U3-Betreuung und Seniorenwohnungen.",
     "description": "Die alte Feuerwache befindet sich an der Unterortstraße unweit des Rathauses und wird seit dem Bau des Notfallzentrums nicht mehr benutzt.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.13935740765784%2C8.573840311107626&z=19\" target=\"_blank\" rel=\"noopener\">Standort der alten Feuerwache</a>",
@@ -150,7 +159,10 @@
       }
     }
   }, {
-    "image": "/assets/header/bezahlbarer_wohnraum.jpg",
+    "image": {
+      "desktop": "/assets/header/bezahlbarer_wohnraum_desktop.jpg",
+      "mobile": "/assets/header/bezahlbarer_wohnraum_mobile.jpg"
+    },
     "category": "Bezahlbarer Wohnraum",
     "thesis": "Die Stadt Eschborn soll verstärkt Wohnraum für Menschen mit niedrigem Haushaltseinkommen schaffen.",
     "description": "Es geht in dieser nicht ausschließlich um den Bau von Sozialwohnungen, sondern zusätzlich bezahlbaren Wohnraum für Menschen zu schaffen die keinen Anspruch auf eine Sozialwohnung haben.",
@@ -181,7 +193,10 @@
       }
     }
   }, {
-    "image": "/assets/header/buergerhaushalt.jpg",
+    "image": {
+      "desktop": "/assets/header/buergerhaushalt_desktop.jpg",
+      "mobile": "/assets/header/buergerhaushalt_mobile.jpg"
+    },
     "category": "Bürgerhaushalt",
     "thesis": "Es soll ein Bürgerhaushalt nach dem Darmstädter Modell ermöglicht werden.",
     "description": "Das Darmstädter Modell ermöglicht Bürger*innen online und offline den kommunalen Haushalt mitzugestalten.",
@@ -212,7 +227,10 @@
       }
     }
   }, {
-    "image": "/assets/header/bus.jpg",
+    "image": {
+      "desktop": "/assets/header/bus_desktop.jpg",
+      "mobile": "/assets/header/bus_mobile.jpg"
+    },
     "category": "E-Stadtbus",
     "thesis": "Ein E-Stadtbus soll die Stadtteile besser verbinden.",
     "description": "",
@@ -243,7 +261,10 @@
       }
     }
   }, {
-    "image": "/assets/header/ladestationen.jpg",
+    "image": {
+      "desktop": "/assets/header/ladestationen_desktop.jpg",
+      "mobile": "/assets/header/ladestationen_mobile.jpg"
+    },
     "category": "Elektroauto-Ladestationen",
     "thesis": "Die Stadt soll die Anzahl der Ladestationen für Elektroautos aktiv fördern.",
     "description": "",
@@ -274,7 +295,10 @@
       }
     }
   }, {
-    "image": "/assets/header/fahrradweg_doernweg.jpg",
+    "image": {
+      "desktop": "/assets/header/fahrradweg_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/fahrradweg_niederhoechstadt_mobile.jpg"
+    },
     "category": "Fahrradweg Dörnweg",
     "thesis": "Der verlängerte Dörnweg zwischen Eschborn und Niederhöchstadt soll zu einem Radweg  mit eigenen Spuren für Radfahrer*innen und Fußgänger*innen umgebaut werden.",
     "description": "Der verlängerte Dörnweg ist ein Feldweg, der die beiden Stadtteile verbindet und neben Landwirten und Spaziergängern auch von Schüler*innen aus Niederhöchstadt als Radweg zur Heinrich von Kleist-Schule genutzt wird.\n🗺️ <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15270360584071%2C8.563704718674158&z=16\" target=\"_blank\" rel=\"noopener\">Standort des verlängerten Dörnwegs zwischen Eschborn und Niederhöchstadt</a>",
@@ -305,7 +329,10 @@
       }
     }
   }, {
-    "image": "/assets/header/foerderung_frankfurt.jpg",
+    "image": {
+      "desktop": "/assets/header/foerderung_frankfurt_desktop.jpg",
+      "mobile": "/assets/header/foerderung_frankfurt_mobile.jpg"
+    },
     "category": "Förderung Frankfurter Einrichtungen",
     "thesis": "Eschborn soll in Zukunft keine Fördergelder mehr für Frankfurter Einrichtungen zur Verfügung stellen.",
     "description": "Eschborn fördert seit mehreren Jahren Frankfurter Institutionen und Inititativen. Dazu gehörenz.B. das Städel, das Filmmuseuum, die Oper Frankfurt und das Radrennen „Eschborn-Frankfurt - der Radklassiker“. Weitere Informationen finden Sie auf der <a href=\"https://www.eschborn.de/rathaus/kultur-und-sportfoerderung/\" target=\"_blank\" rel=\"noopener\">Website der Stadt Eschborn</a>.",
@@ -336,7 +363,10 @@
       }
     }
   }, {
-    "image": "/assets/header/gewerbesteuer.jpg",
+    "image": {
+      "desktop": "/assets/header/gewerbesteuer_desktop.jpg",
+      "mobile": "/assets/header/gewerbesteuer_mobile.jpg"
+    },
     "category": "Gewerbesteuer",
     "thesis": "Der Gewerbesteuerhebesatz soll gesenkt werden, um die Stadt attraktiver für Unternehmen werden zu lassen.",
     "description": "Die Gewerbesteuer ist eine wichtige Einnahmequelle für Kommunen. Über den Hebesatz können Kommunen Einfluss auf die Höhe der Gewerbesteuer nehmen. Der aktuelle Gewerbesteuerhebesatz der Stadt Eschborn befindet sich bei 330. Der Schnitt im Main-Taunus-Kreis liegt bei 357,3. Der Satz der Stadt Frankfurt liegt bei 460. Weitere Informationen erhalten Sie im <a href=\"https://www.gewerbesteuer.de/gewerbesteuerhebesatz/darmstadt\" target=\"_blank\" rel=\"noopener\">Gewerbesteuer Infoportal</a>.",
@@ -367,7 +397,10 @@
       }
     }
   }, {
-    "image": "/assets/header/gruenderstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/gruenderstadt_desktop.jpg",
+      "mobile": "/assets/header/gruenderstadt_mobile.jpg"
+    },
     "category": "Gründerstadt",
     "thesis": "Die Stadt Eschborn soll eine \"Gründerstadt\" werden, indem sie Startups unterstützt, z.B. durch entsprechende Räumlichkeiten oder Beratungsangebote.",
     "description": "",
@@ -398,7 +431,10 @@
       }
     }
   }, {
-    "image": "/assets/header/heinrich_graf_sportanlage.jpg",
+    "image": {
+      "desktop": "/assets/header/heinrich_graf_sportanlage_desktop.jpg",
+      "mobile": "/assets/header/heinrich_graf_sportanlage_mobile.jpg"
+    },
     "category": "Heinrich-Graf-Sportanlage",
     "thesis": "Die Heinrich-Graf-Sportanlage soll umfassend modernisiert werden.",
     "description": "Die Sportanlage befindet sich in Eschborn an den Straßen „Am Sportfeld“ und „Zeppelinstraße“ und beinhaltet unter anderem zwei Fußballplätze, eine 400m-Laufbahn und Gastronomie.\nZur Diskussion stehen sowohl die Modernisierung des bisherigen Standorts, als auch eine Verlegung Richtung Arboretum.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14007633646152%2C8.561395770250021&z=18\" target=\"_blank\" rel=\"noopener\">Link zur Karte</a>",
@@ -429,7 +465,10 @@
       }
     }
   }, {
-    "image": "/assets/header/hofreite_niederhoechstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/hofreite_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/hofreite_niederhoechstadt_mobile.jpg"
+    },
     "category": "Hofreite",
     "thesis": "Die Hofreite in Niederhöchstadt soll genutzt werden, um die U3- und Ü3-Betreuung langfristig sicherzustellen.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.158784431959994%2C8.545776676050618&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Hofreite</a>",
@@ -460,7 +499,10 @@
       }
     }
   }, {
-    "image": "/assets/header/hospiz.jpg",
+    "image": {
+      "desktop": "/assets/header/hospiz_desktop.jpg",
+      "mobile": "/assets/header/hospiz_mobile.jpg"
+    },
     "category": "Hospiz",
     "thesis": "Die Stadt soll einem Trägerverein ein Gebäude für ein stationäres Hospiz bereitstellen oder neu errichten lassen.",
     "description": "Aktuell gibt es in Eschborn ein ambulantes Hospiz vom „Lichtblick e.V.“. Die nächstgelegenen stationären Hospize befinden sich z.B. in Oberursel, Flörsheim am Main und Frankfurt. Die Zeitung <a href=\"https://www.fnp.de/lokales/main-taunus/eschborn-ort74774/begleitung-in-der-letzten-lebensphase-90106094.html\" target=\"_blank\" rel=\"noopener\">„Frankfurt Neue Presse“ berichtete</a>.",
@@ -491,7 +533,10 @@
       }
     }
   }, {
-    "image": "/assets/header/hundesteuer.jpg",
+    "image": {
+      "desktop": "/assets/header/hundesteuer_desktop.jpg",
+      "mobile": "/assets/header/hundesteuer_mobile.jpg"
+    },
     "category": "Hundesteuer",
     "thesis": "Die 2020 neu eingeführte Hundesteuer soll grundsätzlich beibehalten werden.",
     "description": "",
@@ -522,7 +567,10 @@
       }
     }
   }, {
-    "image": "/assets/header/josefstadt_west.jpg",
+    "image": {
+      "desktop": "/assets/header/josefstadt_west_desktop.jpg",
+      "mobile": "/assets/header/josefstadt_west_mobile.jpg"
+    },
     "category": "Josefstadt-West",
     "thesis": "Eschborn soll sich der Realisierung des Frankfurter Neubaugebiets, auch bekannt als \"Josefstadt-West\", widersetzen.",
     "description": "Der Begriff „Josefstadt-West“ beschreibt eine städtebauliche Entwicklungsmaßnahme im Nordwesten Frankfurts, insbesondere die Planungen westlich der Autobahn A5. Weitere Informationen zu den Maßnahmen finden sich auf der <a href=\"https://stadtplanungsamt-frankfurt.de/frankfurt_nordwest_neuer_stadtteil_der_quartiere_18798.html\" target=\"_blank\" rel=\"noopener\">Website des Stadtplanungsamts Frankfurt</a>.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.1553507988878%2C8.620535719248839&z=14\" target=\"_blank\" rel=\"noopener\"> Link zur Karte</a>",
@@ -553,7 +601,10 @@
       }
     }
   }, {
-    "image": "/assets/header/klimaneutrale_stadt.jpg",
+    "image": {
+      "desktop": "/assets/header/klimaneutrale_stadt_desktop.jpg",
+      "mobile": "/assets/header/klimaneutrale_stadt_mobile.jpg"
+    },
     "category": "Klimaneutrale Stadt",
     "thesis": "Die Stadtverwaltung soll in den nächsten Jahren klimaneutral werden.",
     "description": "",
@@ -584,7 +635,10 @@
       }
     }
   }, {
-    "image": "/assets/header/kommunale_hebamme.jpg",
+    "image": {
+      "desktop": "/assets/header/kommunale_hebamme_desktop.jpg",
+      "mobile": "/assets/header/kommunale_hebamme_mobile.jpg"
+    },
     "category": "Kommunale Hebamme",
     "thesis": "Die Stadt Eschborn soll eine kommunale Hebamme beschäftigen, um die Situation für angehende Eltern zu verbessern.",
     "description": "",
@@ -615,7 +669,10 @@
       }
     }
   }, {
-    "image": "/assets/header/hanseatenviertel.jpg",
+    "image": {
+      "desktop": "/assets/header/hanseatenviertel_desktop.jpg",
+      "mobile": "/assets/header/hanseatenviertel_mobile.jpg"
+    },
     "category": "Lärmschutzmaßnahmen für Hanseatenviertel",
     "thesis": "Das Hanseatenviertel soll durch geeignete Lärmschutzmaßnahmen vor dem Verkehrslärm geschützt werden.",
     "description": "Das Hanseatenviertel besteht aus der Hamburger Straße, Bremer Straße und Lübecker Straße und befindet sich unweit der Umgehungsstraße L3005.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.136923867567795%2C8.569550561072633&z=18\" target=\"_blank\" rel=\"noopener\">Angrenzende Umgehungsstraße L3005 am Hanseatenviertel</a>",
@@ -646,7 +703,10 @@
       }
     }
   }, {
-    "image": "/assets/header/mobilfunkturm_niederhoechstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/mobilfunkturm_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/mobilfunkturm_niederhoechstadt_mobile.jpg"
+    },
     "category": "Mobilfunkturm Niederhöchstadt",
     "thesis": "Der Mobilfunkturm in Niederhöchstadt soll schnellstmöglich außer Betrieb genommen werden.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.165091419754866%2C8.543711047786422&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Mobilfunkturms</a>",
@@ -677,7 +737,10 @@
       }
     }
   }, {
-    "image": "/assets/header/nahversorgung.jpg",
+    "image": {
+      "desktop": "/assets/header/nahversorgung_desktop.jpg",
+      "mobile": "/assets/header/nahversorgung_mobile.jpg"
+    },
     "category": "Nahversorgung",
     "thesis": "Die Nahversorgung soll gestärkt werden, indem Kleingewerbtreibende in städtischen Gebäuden finanziell unterstützt werden.",
     "description": "",
@@ -708,7 +771,10 @@
       }
     }
   }, {
-    "image": "/assets/header/regionaltangente_west.jpg",
+    "image": {
+      "desktop": "/assets/header/regionaltangente_west_desktop.jpg",
+      "mobile": "/assets/header/regionaltangente_west_mobile.jpg"
+    },
     "category": "Regionaltangente West",
     "thesis": "Die Stadt Eschborn soll die Umsetzung der Regionaltangente West vorantreiben.",
     "description": "Die Regionalttangente West ist eine  in Planung befindliche Bahnstrecke die Eschborn z.B. mit dem Flughafen und Bad Homburg vernetzt und drei Haltestellen in Eschborn vorsieht.",
@@ -739,7 +805,10 @@
       }
     }
   }, {
-    "image": "/assets/header/wiesenbad_eschborn.jpg",
+    "image": {
+      "desktop": "/assets/header/wiesenbad_eschborn_desktop.jpg",
+      "mobile": "/assets/header/wiesenbad_eschborn_mobile.jpg"
+    },
     "category": "Schwimmbad",
     "thesis": "Kinder aus Eschborn sollen das Wiesenbad kostenlos nutzen können, um perspektivisch dem steigenden Anteil an Nichtschwimmern entgegenzuwirken.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14870942965859%2C8.558120261554944&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Wiesenbad</a>",
@@ -770,7 +839,10 @@
       }
     }
   }, {
-    "image": "/assets/header/sicherheitskameras.jpg",
+    "image": {
+      "desktop": "/assets/header/sicherheitskameras_desktop.jpg",
+      "mobile": "/assets/header/sicherheitskameras_mobile.jpg"
+    },
     "category": "Sicherheitskameras",
     "thesis": "Um das Sicherheitsgefühl zu stärken und eventuelle Straftaten zu verhindern soll die Installation von Sicherheitskameras an ausgewählt Orten in Erwägung gezogen werden.",
     "description": "",
@@ -801,7 +873,10 @@
       }
     }
   }, {
-    "image": "/assets/header/smart_city.jpg",
+    "image": {
+      "desktop": "/assets/header/smart_city_desktop.jpg",
+      "mobile": "/assets/header/smart_city_mobile.jpg"
+    },
     "category": "Smart City",
     "thesis": "Eschborn soll zur Modellkommune für Smart City-Konzepte werden.",
     "description": "",
@@ -832,7 +907,10 @@
       }
     }
   }, {
-    "image": "/assets/header/stadtpolizei.jpg",
+    "image": {
+      "desktop": "/assets/header/stadtpolizei_desktop.jpg",
+      "mobile": "/assets/header/stadtpolizei_mobile.jpg"
+    },
     "category": "Stadtpolizei",
     "thesis": "Die Stadtpolizei soll personell verstärkt werden.",
     "description": "",
@@ -863,7 +941,10 @@
       }
     }
   }, {
-    "image": "/assets/header/gewerbegebiete_beleben.jpg",
+    "image": {
+      "desktop": "/assets/header/gewerbegebiete_beleben_desktop.jpg",
+      "mobile": "/assets/header/gewerbegebiete_beleben_mobile.jpg"
+    },
     "category": "Wohnraum in Gewerbegebieten",
     "thesis": "Die Gewerbegebiete sollen Teil des Stadtlebens werden, indem dort Wohnflächen geschaffen werden.",
     "description": "",
@@ -894,7 +975,10 @@
       }
     }
   }, {
-    "image": "/assets/header/staedtepartnerschaften.jpg",
+    "image": {
+      "desktop": "/assets/header/staedtepartnerschaften_desktop.jpg",
+      "mobile": "/assets/header/staedtepartnerschaften_mobile.jpg"
+    },
     "category": "Städtepartnerschaften",
     "thesis": "Bestehende Städtepartnerschaften sollen gestärkt werden und es soll nach neuen Partnerschaften gesucht werden.",
     "description": "Derzeit hat die Stadt Eschborn drei Städtepartnerschaften in verschiedenen Ländern Europas. Details erfährst du auf der 🌐 <a href=\"https://www.eschborn.de/stadt-kultur-und-tourismusinformationen/staedtepartnerschaften/\" target=\"_blank\" rel=\"noopener\">Website der Stadtverwaltung</a>.",
@@ -925,7 +1009,10 @@
       }
     }
   }, {
-    "image": "/assets/header/photovoltaik.jpg",
+    "image": {
+      "desktop": "/assets/header/photovoltaik_desktop.jpg",
+      "mobile": "/assets/header/photovoltaik_mobile.jpg"
+    },
     "category": "Photovoltaik-Forderung",
     "thesis": "Die Stadt Eschborn soll den Ausbau von privaten Photovoltaikanlagen finanziell fördern.",
     "description": "",
@@ -956,7 +1043,10 @@
       }
     }
   }, {
-    "image": "/assets/header/sued_ost_verbindung.jpg",
+    "image": {
+      "desktop": "/assets/header/sued_ost_verbindung_desktop.jpg",
+      "mobile": "/assets/header/sued_ost_verbindung_mobile.jpg"
+    },
     "category": "Süd-Ost-Verbindung",
     "thesis": "Die Planung der Süd-Ost-Verbindung soll gestoppt werden.",
     "description": "Seit vielen Jahren werden verschiedene Varianten einer Straßenverbindung zwischen den Gewerbegebieten Süd und Ost diskutiert.\n📄 <a href=\"https://www.eschborn.de/fileadmin/eschborn/Bilder/Rathaus/Bauprojekte/verbindung_gewerbegebiete/15-04-14__PR_Verbindungsstrasse_Sued_Ost_Sachstand.pdf\" target=\"_blank\" rel=\"noopener\">Sachstandsbericht aus dem Jahr 2015</a>\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.13662525375974%2C8.575445653459317&z=18\" target=\"_blank\" rel=\"noopener\">Standort der geplanten Verbindung</a>",
@@ -987,7 +1077,10 @@
       }
     }
   }, {
-    "image": "/assets/header/hauptstrasse_niederhoechstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/hauptstrasse_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/hauptstrasse_niederhoechstadt_mobile.jpg"
+    },
     "category": "Verkehrsberuhigung der Hauptstraße ",
     "thesis": "Die Hauptstraße in Niederhöchstadt - zwischen Steinbacher Str. und Platz an der Linde - soll vom Autoverkehr entlastet werden, um mehr Raum für Fußgänger und Einzelhandelsbetriebe zu schaffen.",
     "description": "Die Hauptstraße in Niederhöchstadt hat im Vergleich zu anderen Abschnitten zwischen der Steinbacher Straße und dem Platz der Linde eine schmale Fahrspur und einen schmalen Gehweg.\n🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15748537751381%2C8.546946946224464&z=18\" target=\"_blank\" rel=\"noopener\">Standort des Straßenabschnitts</a>",
@@ -1018,7 +1111,10 @@
       }
     }
   }, {
-    "image": "/assets/header/wohnheim.jpg",
+    "image": {
+      "desktop": "/assets/header/wohnheim_desktop.jpg",
+      "mobile": "/assets/header/wohnheim_mobile.jpg"
+    },
     "category": "Wohnheim für Studenten und Auszubildende",
     "thesis": "Es soll ein Wohnheim für Studenten und Auszubildende gebaut werden.",
     "description": "",
@@ -1049,7 +1145,10 @@
       }
     }
   }, {
-    "image": "/assets/header/feuerwehr_niederhoechstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/feuerwehr_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/feuerwehr_niederhoechstadt_mobile.jpg"
+    },
     "category": "Feuerwehr Niederhöchstadt",
     "thesis": "Die Feuerwehr Niederhöchstadt soll einen Anbau erhalten, um ihren Platzbedarf decken zu können.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.16157360332198%2C8.54513687246179&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Feuerwache in Niederhöchstadt</a>",
@@ -1080,7 +1179,10 @@
       }
     }
   }, {
-    "image": "/assets/header/musikschule_niederhoechstadt.jpg",
+    "image": {
+      "desktop": "/assets/header/musikschule_niederhoechstadt_desktop.jpg",
+      "mobile": "/assets/header/musikschule_niederhoechstadt_mobile.jpg"
+    },
     "category": "Musikschule in Niederhöchstadt",
     "thesis": "Für die Musikschule Taunus in Niederhöchstadt soll es einen Neubau in Eschborn oder Niederhöchstadt geben.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15581218993414%2C8.54896944976475&z=19\" target=\"_blank\" rel=\"noopener\">Standort des Hauptgebäudes der Musikschule Taunus</a>",
@@ -1111,7 +1213,10 @@
       }
     }
   }, {
-    "image": "/assets/header/neubaugebiet_doernweg.jpg",
+    "image": {
+      "desktop": "/assets/header/neubaugebiet_doernweg_desktop.jpg",
+      "mobile": "/assets/header/neubaugebiet_doernweg_mobile.jpg"
+    },
     "category": "Neubaugebiet Dörnweg",
     "thesis": "Im Dörnweg nahe der Heinrich von Kleist-Schule soll die Umsetzung eines Neubaugebiets vorangetrieben werden.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.15023843605663%2C8.568259410717042&z=17\" target=\"_blank\" rel=\"noopener\">Standort eines potenziellen Neubaugebiets am Dörnweg</a>",
@@ -1142,7 +1247,10 @@
       }
     }
   }, {
-    "image": "/assets/header/platzhalter.jpg",
+    "image": {
+      "desktop": "/assets/header/platzhalter_desktop.jpg",
+      "mobile": "/assets/header/platzhalter_mobile.jpg"
+    },
     "category": "Open-Air-Kino",
     "thesis": "Auch nach der Pandemie soll langfristig und regelmäßig ein Open-Air-Kino stattfinden.",
     "description": "",
@@ -1173,7 +1281,10 @@
       }
     }
   }, {
-    "image": "/assets/header/psychologische_betreuung.jpg",
+    "image": {
+      "desktop": "/assets/header/psychologische_betreuung_desktop.jpg",
+      "mobile": "/assets/header/psychologische_betreuung_mobile.jpg"
+    },
     "category": "Psychologische Betreuung",
     "thesis": "Die Stadt Eschborn soll ein psychologisches Betreuungsangebot für Kinder und Jugendliche schaffen.",
     "description": "",
@@ -1204,7 +1315,10 @@
       }
     }
   }, {
-    "image": "/assets/header/stadthalle.jpg",
+    "image": {
+      "desktop": "/assets/header/stadthalle_desktop.jpg",
+      "mobile": "/assets/header/stadthalle_mobile.jpg"
+    },
     "category": "Stadthalle",
     "thesis": "Der Neubau der Stadthalle soll weiterhin Teil des Rathauses sein und sich in Stil und Größe an den Rathausplatz einfügen.",
     "description": "🗺️ <a href=\"https://www.google.com/maps/d/viewer?mid=1Ry53U8L7c7iXVmO6rJ5NAcUk15mx7Qf0&ll=50.14065193232662%2C8.573922407157584&z=19\" target=\"_blank\" rel=\"noopener\">Standort der Stadthalle</a>",
