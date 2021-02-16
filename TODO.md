@@ -8,9 +8,11 @@ UX:
 - [ ] Avoid flapping because of multiline categories
 - [ ] Tool tips for dots
 - [ ] Larger thesis cards for desktop
-
+- [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
 
 Content:
+- [ ] Add "CDU"
+- [ ] Add "SPD"
 - [ ] Finalize header images @ecki
 - [ ] Finalize descriptions @ecki
 - [ ] Finalize intro text @ecki
