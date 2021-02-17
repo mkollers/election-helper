@@ -1,23 +1,28 @@
 Prio:  
-- [ ] [BUG] Last "skip thesis" does not link to results  
+- [ ] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
+- [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
+- [ ] Statement Matrix on the result page !!! TOP5 !!!
+- [ ] Order statements by position
+- [ ] IE 11 - basic compatibility 
 - [ ] PDF Download der Thesen mit Begründung
-- [ ] Statemenet Matrix on the result page
-- [ ] Order statemenets by position
 
 UX:
+- [ ] Larger thesis cards for desktop !!! TOP5 !!!
+- [ ] Tool tips for dots !!! TOP5 !!!
 - [ ] Avoid flapping because of multiline categories
-- [ ] Tool tips for dots
-- [ ] Larger thesis cards for desktop
-
+- [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
 
 Content:
-- [ ] Finalize header images @ecki
-- [ ] Finalize descriptions @ecki
-- [ ] Finalize intro text @ecki
+- [ ] Add "CDU"
+- [ ] Add "SPD"
+- [x] Finalize header images
+- [ ] Finalize descriptions
+- [ ] Finalize intro text
+- [x] Add Google Maps links
 
 Others:
-- [ ] Links are not visible as links in FAQ. Maybe add underline and change color.
-- [ ] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
+- [x] Links are not visible as links in FAQ. Maybe add underline and change color.
+- [x] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
 - [ ] WebP integration
 - [ ] "back" button
 - [ ] Image alt text for accessibility 
