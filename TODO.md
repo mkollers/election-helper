@@ -11,10 +11,12 @@ UX:
 - [ ] Tool tips for dots !!! TOP5 !!!
 - [ ] Avoid flapping because of multiline categories
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
+- [x] Add alt text for images
 
 Content:
 - [ ] Add "CDU"
-- [ ] Add "SPD"
+- [x] Add "SPD" positions
+- [ ] Add "SPD" statements
 - [x] Finalize header images
 - [ ] Finalize descriptions
 - [ ] Finalize intro text
