@@ -18,7 +18,8 @@ export interface Faq {
 export interface Thesis {
     image: {
         desktop: string,
-        mobile: string
+        mobile: string,
+        alttext: string
     };
     thesis: string;
     category: string;
