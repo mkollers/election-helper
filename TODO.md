@@ -1,13 +1,15 @@
 Prio:  
-- [ ] [BUG] Last "skip thesis" does not link to results  
-- [ ] PDF Download der Thesen mit Begründung
-- [ ] Statement Matrix on the result page
+- [ ] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
+- [ ] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
+- [ ] Statement Matrix on the result page !!! TOP5 !!!
 - [ ] Order statements by position
+- [ ] IE 11 - basic compatibility 
+- [ ] PDF Download der Thesen mit Begründung
 
 UX:
+- [ ] Larger thesis cards for desktop !!! TOP5 !!!
+- [ ] Tool tips for dots !!! TOP5 !!!
 - [ ] Avoid flapping because of multiline categories
-- [ ] Tool tips for dots
-- [ ] Larger thesis cards for desktop
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
 
 Content:
