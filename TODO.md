@@ -1,6 +1,6 @@
 Prio:  
 - [ ] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
-- [ ] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
+- [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
 - [ ] Statement Matrix on the result page !!! TOP5 !!!
 - [ ] Order statements by position
 - [ ] IE 11 - basic compatibility 
@@ -15,9 +15,10 @@ UX:
 Content:
 - [ ] Add "CDU"
 - [ ] Add "SPD"
-- [x] Finalize header images @ecki
-- [ ] Finalize descriptions @ecki
-- [ ] Finalize intro text @ecki
+- [x] Finalize header images
+- [ ] Finalize descriptions
+- [ ] Finalize intro text
+- [x] Add Google Maps links
 
 Others:
 - [x] Links are not visible as links in FAQ. Maybe add underline and change color.
