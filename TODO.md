@@ -1,44 +1,44 @@
 Prio:  
-- [ ] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
-- [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
+- [ ] Tool tips for dots !!! TOP5 !!!
 - [ ] Statement Matrix on the result page !!! TOP5 !!!
 - [ ] Order statements by position
 - [ ] IE 11 - basic compatibility 
-- [ ] PDF Download der Thesen mit Begründung
 
 UX:
-- [ ] Larger thesis cards for desktop !!! TOP5 !!!
-- [ ] Tool tips for dots !!! TOP5 !!!
 - [ ] Avoid flapping because of multiline categories
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
-- [x] Add alt text for images
 
 Content:
 - [ ] Add "CDU"
-- [x] Add "SPD" positions
 - [ ] Add "SPD" statements
-- [x] Finalize header images
 - [ ] Finalize descriptions
-- [ ] Finalize intro text
-- [x] Add Google Maps links
+- [ ] PDF of positions and statements
 
 Others:
-- [x] Links are not visible as links in FAQ. Maybe add underline and change color.
-- [x] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
 - [ ] WebP integration
 - [ ] "back" button
-- [ ] Image alt text for accessibility 
 - [ ] PWA features
 - [ ] Unit tests
 - [ ] Readable Urls
 - [ ] Thesis preview?
 - [ ] Swipe thesis
 - [ ] Improve imports (@shared..etc)
-- [ ] Fix not clickable buttons
 - [ ] Add security headers
 - [ ] Dark mode
 
 Done: 
+- [x] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
+- [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
+- [x] Larger thesis cards for desktop !!! TOP5 !!!
+- [x] Add alt text for images
+- [x] Add "SPD" positions
+- [x] Finalize header images
+- [x] Finalize intro text
+- [x] Add Google Maps links
+- [x] Fix not clickable buttons
+- [x] Links are not visible as links in FAQ. Maybe add underline and change color.
+- [x] Links to original manifestos ("Wahlprogramme") on start page; alternative: Link to FAQ for more info on manifestos
+- [x] Image alt text for accessibility 
 - [x] Change prefix to "eschomat"
 - [x] Dots below thesis
 - [x] Fix card height (flapping on navigation)
