@@ -41,7 +41,7 @@
       </section>
     </section>
     <section class="dots">
-      <a [routerLink]="'/thesen/' + (i + 1)" class="dot" routerLinkActive="active"
+      <a [routerLink]="'/thesen/' + (i + 1)" #dot class="dot" routerLinkActive="active"
         *ngFor="let t of config.theses; let i = index"></a>
     </section>
   </ng-container>

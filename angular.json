@@ -38,7 +38,8 @@
               "ignore": ["root/**"]
             }],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/tippy.js/dist/tippy.css"
             ],
             "stylePreprocessorOptions": {
               "includePaths": [
@@ -112,7 +113,8 @@
               "ignore": ["root/**"]
             }],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/tippy.js/dist/tippy.css"
             ],
             "stylePreprocessorOptions": {
               "includePaths": [
