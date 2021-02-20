@@ -2,12 +2,6 @@
   "logo": "/assets/logo.svg",
   "welcome_text": "<p><strong>Herzlich willkommen beim Eschomat! 👋 </strong></p><p>Wir möchten dir und allen Bürger*innen Eschborns, insbesondere den Jung- und Erstwähler*innen, eine Anlaufstelle für die Kommunalwahl am 14. März 2021 bieten.</p><p>Verschaffe dir mit dem Eschomat in wenigen Minuten einen  Eindruck, welche Parteien deine Interessen vertreten.</p><p>Anschließend empfehlen wir dir einen Blick in <a href=\"faq\" target=\"_blank\" rel=\"noopener\">die Wahlprogramme 📚 der Parteien</a> zu werfen, weil der Eschomat natürlich nicht allen Ideen der Parteien gerecht werden kann.</p><p>Aber nun erstmal viel Spaß mit dem Eschomat! 👍</p>",
   "parties": {
-    "CDU": {
-      "description": "Die CDU stützt sich auf christliche Werte und kombiniert eine marktwirtschaftliche Ausrichtung mit staatlichen Eingriffen.",
-      "name": "Christlich Demokratische Union",
-      "logo": "/assets/logos_parties/cdu.svg",
-      "manifesto": "https://cdueschborn.de/kommunalwahl2021-programm.html"
-    },
     "Grüne": {
       "description": "Die GRÜNEN orientieren sich an den Themen Umweltschutz, Bürger- und Menschenrechte, Gleichstellung sowie Demokratisierung der Gesellschaft.",
       "logo": "/assets/logos_parties/gruene.svg",
