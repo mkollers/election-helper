@@ -27,6 +27,17 @@
   }
 }
 
+.back {
+  justify-self: start;
+
+  svg {
+    height: 1.1875rem;
+    vertical-align: middle;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+}
+
 .dots {
   margin: 15px auto;
   text-align: center;

@@ -15,6 +15,7 @@ import { CONFIG, Config, Thesis } from 'src/config';
 export class ThesisPageComponent {
   index$: Observable<number>;
   thesis$: Observable<Thesis | undefined>;
+  backUrl$: Observable<string>;
   skipUrl$: Observable<string>;
 
   constructor(
@@ -30,6 +31,10 @@ export class ThesisPageComponent {
     this.thesis$ = this.index$.pipe(
       map(index => config.theses[index - 1])
     );
+
+    this.backUrl$ = this.index$.pipe(
+      map(i => i < config.theses.length ? `/thesen/${i + -1}` : '/ergebnis')
+    )
 
     this.skipUrl$ = this.index$.pipe(
       map(i => i < config.theses.length ? `/thesen/${i + 1}` : '/ergebnis')
