@@ -1,11 +1,13 @@
 Prio 1:
 - [ ] Tool tips for dots
 - [ ] [BUG] Misleading rounding of results (e.g. 99% for "FWE" if all statements are correct)
+- [ ] Basic server-side performance measuring (e.g. page impressions, unique visitors) - no personal data
+- [ ] Align button to center on index page 
 - [ ] Add "CDU" 
 - [ ] Add "SPD" statements
 - [ ] Delete theses where every party claims the same position
 
-Prio 2:  
+Prio 2:
 - [ ] Statement Matrix on the result page
 - [ ] Order statements by position
 - [ ] IE 11 - basic compatibility 
