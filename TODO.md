@@ -1,6 +1,12 @@
-Prio:  
-- [ ] Tool tips for dots !!! TOP5 !!!
-- [ ] Statement Matrix on the result page !!! TOP5 !!!
+Prio 1:
+- [ ] Tool tips for dots
+- [ ] [BUG] Misleading rounding of results (e.g. 99% for "FWE" if all statements are correct)
+- [ ] Add "CDU" 
+- [ ] Add "SPD" statements
+- [ ] Delete theses where every party claims the same position
+
+Prio 2:  
+- [ ] Statement Matrix on the result page
 - [ ] Order statements by position
 - [ ] IE 11 - basic compatibility 
 
@@ -9,9 +15,6 @@ UX:
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
 
 Content:
-- [ ] Add "CDU"
-- [ ] Add "SPD" statements
-- [ ] Finalize descriptions
 - [ ] PDF of positions and statements
 
 Others:
@@ -27,6 +30,7 @@ Others:
 - [ ] Dark mode
 
 Done: 
+- [x] Finalize descriptions !has to be done before release!
 - [x] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
 - [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
 - [x] Larger thesis cards for desktop !!! TOP5 !!!
