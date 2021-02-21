@@ -29,3 +29,8 @@ body {
 html {
   margin-left: calc(100vw - 100%); /* Avoid horizontal jumping when scrollbar appear (e.g. when user opens "Weitere Informationen") https://aykevl.nl/2014/09/fix-jumping-scrollbar */
 }
+
+a.faq, a.legal-notice, a.privacy { /* Increase link size for better usability / lighthouse scrore) */
+  font-size: 1rem !important;
+  padding: 0.2rem;
+}
