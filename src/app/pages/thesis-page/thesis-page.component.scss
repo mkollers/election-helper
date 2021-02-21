@@ -39,7 +39,7 @@
   display: inline-block;
   height: 15px;
   margin: 0;
-  border: 2px solid var(--clr-neutral-0dp);
+  border: 2px solid #fafafa;
   transition: 0.2s ease-in-out;
   width: 15px;
 
@@ -54,7 +54,7 @@
 @media screen and (min-width: 600px) {
 
   .dot {
-    border: 3px solid var(--clr-neutral-0dp);
+    border: 3px solid #fafafa;
     height: 17px;
     width: 17px;
   }
