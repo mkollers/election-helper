@@ -1,6 +1,7 @@
 Prio 1:
-- [ ] Add "CDU" 
-- [ ] Delete theses where every party claims the same position
+- [ ] PDF of positions and statements
+- [ ] "back" button
+- [ ] Avoid flapping because of missing "Weitere Informationen" (possible solution: increase margin-bottom below dots)
 
 Prio 2:
 - [ ] Statement Matrix on the result page
@@ -12,11 +13,9 @@ UX:
 - [ ] Truncate long statements for better usability (e.g. https://justmarkup.com/articles/2017-01-12-truncating-and-revealing-text-the-show-more-and-read-more-patterns/ -> but more beautiful)
 
 Content:
-- [ ] PDF of positions and statements
 
 Others:
 - [ ] WebP integration
-- [ ] "back" button
 - [ ] PWA features
 - [ ] Unit tests
 - [ ] Readable Urls
@@ -27,6 +26,8 @@ Others:
 - [ ] Dark mode
 
 Done: 
+- [x] Add "CDU" 
+- [x] Delete theses where every party claims the same position
 - [x] Tool tips for dots
 - [x] [BUG] Misleading rounding of results (e.g. 99% for "FWE" if all statements are correct)
 - [x] Basic server-side performance measuring (e.g. page impressions, unique visitors) - no personal data
