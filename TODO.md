@@ -1,10 +1,5 @@
 Prio 1:
-- [ ] Tool tips for dots
-- [ ] [BUG] Misleading rounding of results (e.g. 99% for "FWE" if all statements are correct)
-- [ ] Basic server-side performance measuring (e.g. page impressions, unique visitors) - no personal data
-- [ ] Align button to center on index page 
 - [ ] Add "CDU" 
-- [ ] Add "SPD" statements
 - [ ] Delete theses where every party claims the same position
 
 Prio 2:
@@ -32,6 +27,11 @@ Others:
 - [ ] Dark mode
 
 Done: 
+- [x] Tool tips for dots
+- [x] [BUG] Misleading rounding of results (e.g. 99% for "FWE" if all statements are correct)
+- [x] Basic server-side performance measuring (e.g. page impressions, unique visitors) - no personal data
+- [x] Align button to center on index page 
+- [x] Add "SPD" statements
 - [x] Finalize descriptions !has to be done before release!
 - [x] [BUG] Last "skip thesis" does not link to results !!! TOP5 !!!
 - [x] [BUG] Change to desktop and mobile images causes error !!! TOP5 !!!
